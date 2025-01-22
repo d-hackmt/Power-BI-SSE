@@ -1,1 +1,3 @@
-# Power-BI---SSE
+# Power BI - SSE
+
+ZERO to HERO course
