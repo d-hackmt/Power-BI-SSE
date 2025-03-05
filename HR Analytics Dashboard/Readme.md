@@ -4,9 +4,10 @@ Why color green always 😵‍💫
 ![image](https://github.com/user-attachments/assets/2db50340-4767-4b30-bf2c-d4852994ecad)
 
 
-White looks good
+White looks good too 
 
-![image](https://github.com/user-attachments/assets/9cecb79b-0661-4800-a833-1c9faddcf794)
+
+![Power BI Desktop 3_5_2025 3_17_45 PM](https://github.com/user-attachments/assets/a846d7a2-5c14-481d-97d1-b4b247da67cd)
 
 
 
