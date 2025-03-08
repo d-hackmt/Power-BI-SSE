@@ -3,18 +3,15 @@
 
 ![image](https://github.com/user-attachments/assets/f109305b-d7d7-40e3-8a67-bd037b82d954)
 
-
 ## Domain Knowledge
 
 ![(37) Power BI Project End to End Dashboard Development _ Beginners _ Power BI Tutorial - YouTube - Google Chrome 3_7_2025 8_04_44 PM](https://github.com/user-attachments/assets/cbb3681c-7ca8-4938-96b5-c57f48a08bd5)
 
 ![image](https://github.com/user-attachments/assets/3c19fc17-747c-4c4f-95f6-307868886ba0)
 
-
 ## Design Blueprint
 
 ![(37) Power BI Project End to End Dashboard Development _ Beginners _ Power BI Tutorial - YouTube - Google Chrome 3_7_2025 8_41_44 PM](https://github.com/user-attachments/assets/88b72c57-bbfe-4aff-912b-80c155aa791e)
-
 
 ## Summary View
 
