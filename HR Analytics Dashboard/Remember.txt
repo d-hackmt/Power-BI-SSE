@@ -1,0 +1,11 @@
+Today i will complete an entire dashboard , 
+
+i will fromat same type of visuals for only 1 time 
+
+I will copy paste the visual everytime i have to make a new one , to save myself from formatting it again 
+
+just in case i forgot to copy paste , i will use format painter to save my efforts , 
+
+I can generate stories from excel 
+
+i can also use gpt to generate storeis or complex dax
