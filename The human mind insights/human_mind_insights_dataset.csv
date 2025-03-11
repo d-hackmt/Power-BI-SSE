@@ -1,0 +1,1001 @@
+Person_ID,Age,Gender,Dominant Emotion,Recent Thought,Dream Type,Hours of Sleep,Meditation Frequency,Screen Time (hrs/day),Music Preference,Brain Activity Level (%),Focus Level (%),Creativity Score (1-10),Anxiety Level (1-10),Happiness Index (1-10),Decision-Making Speed (sec),Daydreaming Frequency,Stress Triggers,AI Interaction Level,Philosophical Thinking (%),Caffeine Consumption (mg/day),Social Interaction Level,Most Active Brain Hemisphere,Sleep Quality,Random_Noise
+7277,56,Non-binary,Excited,Existential crisis,Abstract,3,Never,4,Metal,46,71,9,8,7,12,Low,Health,Low,24,-50,Ambivert,Left,Good,669
+8596,69,Non-binary,Sad,Existential crisis,Lucid,8,Weekly,6,Rock,20,98,10,7,8,3,High,Relationships,Medium,80,50,Ambivert,Right,Poor,491
+8454,46,Non-binary,Sad,Focused mode,Lucid,7,Never,6,Pop,52,58,2,4,10,6,High,Social Media,Low,52,100,Ambivert,Balanced,Poor,451
+2051,32,Male,,Random nostalgia,Nightmare,3,Weekly,6,Metal,59,23,6,6,8,11,Medium,Social Media,High,90,50,Extrovert,Left,Average,905
+7293,60,Non-binary,Sad,Work stress,Lucid,10,Never,2,Rock,51,10,5,4,8,8,Low,Health,Low,27,300,Ambivert,Left,Poor,765
+2679,25,Male,Anxious,Focused mode,Lucid,4,Never,7,Rock,88,90,5,7,10,1,Low,Relationships,Low,31,300,Ambivert,Right,Average,675
+8777,38,Female,Excited,Focused mode,Abstract,5,Daily,6,Lo-fi,36,34,10,1,3,4,Medium,Finance,Medium,70,100,Ambivert,Right,Poor,769
+3213,56,Non-binary,Happy,Work stress,Lucid,6,Never,1,Rock,27,68,3,5,2,1,High,Health,High,70,300,Ambivert,Right,Good,876
+3268,36,Male,Anxious,Work stress,Abstract,10,Never,2,Pop,76,81,8,10,4,2,High,Social Media,Low,62,300,Introvert,Balanced,Poor,732
+7827,40,Male,,Existential crisis,Abstract,3,Weekly,7,Pop,61,78,8,10,1,8,Low,Social Media,Low,35,500,Extrovert,Balanced,Average,387
+2679,28,Non-binary,Happy,Random nostalgia,Lucid,9,Never,1,Metal,28,14,5,4,3,6,High,Work,Low,49,400,Introvert,Balanced,Average,622
+8777,28,Female,Excited,Random nostalgia,Nightmare,4,Daily,1,Metal,54,28,8,7,9,9,Low,Relationships,Low,17,-50,Extrovert,Right,Average,825
+3213,41,Female,Angry,Work stress,Nightmare,9,Weekly,1,Rock,90,32,10,9,7,2,Low,Work,Low,30,500,Ambivert,Left,Good,261
+3268,53,Female,Anxious,Creativity burst,Forgotten,9,Weekly,8,Classical,98,18,8,5,7,3,High,Finance,Low,52,100,Ambivert,Balanced,Poor,716
+7827,57,Male,Anxious,Focused mode,Forgotten,9,Daily,4,Lo-fi,72,59,3,4,1,9,High,Health,High,30,200,Extrovert,Right,Average,758
+4478,41,Male,Sad,Focused mode,Lucid,9,Weekly,4,Classical,73,25,2,9,7,9,High,Social Media,High,12,50,Extrovert,Balanced,Good,281
+8302,20,Male,,Work stress,Nightmare,9,Weekly,2,Rock,44,42,9,5,10,13,Medium,Relationships,Low,40,200,Introvert,Left,Good,949
+2600,39,Male,,Creativity burst,Abstract,7,Weekly,1,Rock,86,11,2,9,7,6,Low,Social Media,Low,36,200,Extrovert,Left,Good,648
+1285,19,Female,Anxious,Existential crisis,Forgotten,3,Weekly,10,Classical,81,23,9,8,4,14,High,Work,Medium,36,400,Ambivert,Right,Poor,181
+8393,41,Non-binary,Anxious,Work stress,Abstract,10,Daily,9,Lo-fi,74,10,4,4,,3,Medium,Work,High,82,50,Introvert,Left,Poor,623
+8591,61,Male,Anxious,Work stress,Forgotten,3,Daily,7,Classical,65,99,2,7,8,5,High,Health,High,66,200,Extrovert,Right,Poor,103
+9638,47,Male,Angry,Focused mode,Lucid,10,Weekly,4,Metal,43,67,10,5,3,2,Low,Relationships,Low,42,-50,Extrovert,Right,Good,594
+9819,55,Female,Anxious,Work stress,Nightmare,6,Weekly,6,Pop,65,98,1,10,10,7,Medium,Relationships,High,53,100,Introvert,Right,Poor,654
+3582,19,Non-binary,Angry,Work stress,Forgotten,4,Daily,2,Metal,41,25,4,4,2,10,Low,Health,High,52,50,Extrovert,Right,Average,150
+3960,38,Non-binary,Angry,Work stress,Nightmare,5,Daily,7,Pop,30,88,9,5,7,11,High,Work,Medium,40,0,Ambivert,Left,Good,360
+9151,50,Female,Anxious,Focused mode,Abstract,7,Daily,2,Rock,67,99,9,5,,8,High,Work,Medium,74,400,Introvert,Left,Poor,233
+9313,29,Female,Angry,Existential crisis,Lucid,4,Weekly,10,Lo-fi,27,56,4,9,5,6,High,Work,High,85,-50,Extrovert,Left,Good,698
+3468,39,Non-binary,Happy,Existential crisis,Nightmare,7,Weekly,8,Classical,58,53,9,9,5,8,Medium,Social Media,High,26,200,Ambivert,Left,Good,461
+9512,61,Male,Happy,Work stress,Lucid,10,Never,8,Lo-fi,54,89,6,6,7,2,Medium,Finance,High,24,-50,Extrovert,Right,Poor,667
+7488,42,Non-binary,Angry,Focused mode,Nightmare,3,Daily,1,Classical,68,23,1,4,9,3,Medium,Work,Low,43,-50,Introvert,Right,Good,316
+4957,66,Female,Anxious,Existential crisis,Abstract,9,Weekly,8,Metal,65,33,10,2,8,7,Medium,Finance,Medium,89,300,Extrovert,Left,Poor,977
+3724,44,Male,Angry,Existential crisis,Abstract,6,Daily,2,Metal,57,64,6,3,6,10,High,Finance,Low,13,50,Extrovert,Balanced,Poor,167
+1844,59,Male,Anxious,Existential crisis,Lucid,6,Weekly,6,Classical,27,24,9,2,7,12,High,Relationships,Medium,81,0,Extrovert,Balanced,Poor,963
+9733,45,Female,Angry,Focused mode,Abstract,8,Daily,1,Lo-fi,73,92,2,5,9,1,High,Health,Medium,88,300,Ambivert,Balanced,Good,655
+2473,33,Female,Anxious,Focused mode,Forgotten,5,Weekly,5,Classical,56,81,6,6,6,7,Medium,Social Media,Medium,37,-50,Ambivert,Left,Good,242
+8293,32,Female,Sad,Work stress,Nightmare,6,Never,7,Rock,59,43,2,5,1,6,Medium,Finance,High,82,0,Extrovert,Right,Poor,445
+5971,64,Non-binary,Angry,Random nostalgia,Abstract,9,Never,10,Metal,53,11,4,2,4,8,High,Social Media,Medium,11,-50,Extrovert,Right,Good,653
+6526,68,Non-binary,Anxious,Existential crisis,Forgotten,3,Daily,1,Rock,98,36,8,5,8,7,High,Relationships,Low,26,200,Introvert,Balanced,Poor,750
+6879,61,Male,Excited,Random nostalgia,Lucid,5,Weekly,2,Metal,36,83,7,9,7,4,Medium,Work,Medium,67,-50,Extrovert,Balanced,Average,684
+3076,69,Female,Angry,Focused mode,Forgotten,10,Weekly,7,Metal,52,96,9,4,3,3,Low,Finance,Low,83,300,Introvert,Right,Good,878
+5476,20,Male,Happy,Focused mode,Lucid,4,Daily,6,Pop,66,81,7,10,10,3,High,Health,Medium,18,200,Ambivert,Balanced,Good,293
+2809,54,Male,Happy,Focused mode,Lucid,10,Weekly,3,Rock,71,32,1,2,3,4,High,Relationships,Medium,40,300,Extrovert,Balanced,Average,766
+5700,68,Male,Happy,Random nostalgia,Nightmare,9,Daily,10,Rock,99,77,2,3,3,9,High,Social Media,High,75,50,Introvert,Right,Average,345
+9861,24,Male,Anxious,Focused mode,Nightmare,9,Weekly,2,Pop,28,23,6,3,1,9,Medium,Work,Low,71,-50,Ambivert,Balanced,Average,413
+7161,38,Female,Sad,Work stress,Forgotten,6,Daily,10,Lo-fi,52,72,7,9,10,13,High,Social Media,Medium,28,500,Introvert,Balanced,Poor,829
+5160,26,Male,Angry,Focused mode,Nightmare,5,Weekly,4,Rock,79,74,3,4,1,2,High,Health,Medium,90,100,Ambivert,Left,Poor,483
+1591,56,Female,Angry,Creativity burst,Nightmare,3,Daily,3,Classical,96,77,9,1,6,5,High,Finance,Low,83,500,Extrovert,Balanced,Average,864
+6074,35,Female,Happy,Random nostalgia,Nightmare,10,Weekly,7,Pop,40,72,7,1,1,1,High,Health,Medium,64,100,Introvert,Left,Poor,888
+6060,21,Non-binary,Angry,Creativity burst,Forgotten,8,Never,8,Rock,77,99,6,7,5,4,High,Social Media,High,37,500,Extrovert,Right,Good,376
+5115,42,Female,Sad,Focused mode,Abstract,10,Weekly,2,Lo-fi,88,90,6,7,4,2,Low,Social Media,Low,59,0,Introvert,Left,Average,171
+5500,31,Non-binary,Angry,Work stress,Nightmare,7,Daily,10,Rock,29,96,1,2,5,8,Low,Health,High,74,400,Ambivert,Right,Good,228
+1890,67,Female,Sad,Existential crisis,Nightmare,7,Never,7,Metal,25,73,5,9,7,4,High,Health,Low,12,300,Introvert,Left,Poor,457
+8403,26,Female,Excited,Focused mode,Forgotten,3,Weekly,8,Classical,32,41,10,9,6,5,High,Health,Low,88,200,Introvert,Left,Average,797
+1986,43,Female,Happy,Work stress,Abstract,3,Never,6,Pop,84,88,3,5,9,11,High,Work,Low,61,400,Extrovert,Left,Poor,624
+5547,19,Non-binary,,Random nostalgia,Nightmare,7,Weekly,6,Metal,39,22,7,3,6,4,High,Social Media,Medium,19,50,Extrovert,Balanced,Good,940
+8451,37,Non-binary,Angry,Creativity burst,Lucid,8,Never,10,Lo-fi,76,75,10,3,9,5,Medium,Relationships,Low,30,50,Extrovert,Balanced,Poor,319
+4470,45,Male,Excited,Creativity burst,Forgotten,5,Daily,1,Metal,65,28,3,3,4,5,Medium,Work,Low,46,50,Ambivert,Balanced,Good,105
+2554,64,Non-binary,Anxious,Creativity burst,Nightmare,7,Weekly,4,Metal,27,33,5,6,1,5,Medium,Work,Low,24,100,Extrovert,Balanced,Poor,850
+8659,24,Non-binary,Anxious,Random nostalgia,Nightmare,3,Weekly,1,Lo-fi,29,97,7,4,1,11,Low,Work,High,87,200,Introvert,Balanced,Good,723
+4252,61,Non-binary,Anxious,Work stress,Lucid,6,Daily,4,Metal,92,20,3,8,10,3,High,Relationships,Low,88,50,Ambivert,Left,Poor,327
+7411,25,Non-binary,Angry,Random nostalgia,Lucid,4,Never,2,Pop,86,68,10,5,7,7,Medium,Health,Medium,83,50,Extrovert,Balanced,Average,116
+6358,64,Male,Angry,Creativity burst,Forgotten,8,Daily,5,Rock,30,95,2,1,3,3,High,Social Media,Low,18,500,Introvert,Right,Average,684
+6035,52,Non-binary,Angry,Focused mode,Forgotten,9,Daily,10,Metal,31,24,6,9,2,2,High,Finance,Low,53,0,Introvert,Left,Poor,111
+2401,31,Female,Angry,Existential crisis,Lucid,8,Never,9,Pop,29,19,8,1,,3,Low,Finance,High,48,300,Ambivert,Left,Good,697
+3182,34,Female,Happy,Random nostalgia,Forgotten,6,Daily,10,Rock,44,50,4,6,6,11,Low,Social Media,Medium,14,300,Introvert,Right,Poor,598
+9703,53,Non-binary,Sad,Random nostalgia,Lucid,6,Weekly,3,Rock,68,36,9,1,7,3,Medium,Relationships,Medium,34,-50,Extrovert,Balanced,Average,791
+8804,67,Non-binary,Anxious,Work stress,Nightmare,9,Weekly,8,Metal,68,69,8,3,5,8,Medium,Finance,Medium,65,300,Introvert,Right,Good,733
+7215,57,Female,Angry,Work stress,Lucid,10,Weekly,3,Pop,30,82,7,10,8,4,Low,Work,Low,73,400,Extrovert,Left,Poor,815
+5368,21,Female,Anxious,Random nostalgia,Lucid,3,Daily,6,Metal,81,61,7,5,7,3,Low,Finance,Low,81,500,Extrovert,Left,Poor,601
+2920,19,Male,Anxious,Creativity burst,Abstract,7,Weekly,4,Lo-fi,55,37,3,10,2,10,High,Social Media,Medium,61,500,Ambivert,Left,Good,169
+4256,23,Female,,Existential crisis,Lucid,10,Weekly,8,Rock,58,74,6,7,,5,High,Work,Medium,85,0,Introvert,Right,Poor,207
+1179,59,Female,Sad,Work stress,Lucid,5,Weekly,6,Metal,72,26,5,10,9,4,Medium,Finance,High,18,100,Ambivert,Balanced,Average,300
+4826,21,Non-binary,Sad,Creativity burst,Abstract,8,Weekly,8,Rock,97,53,1,8,5,9,Medium,Social Media,Medium,19,400,Ambivert,Left,Average,151
+3470,46,Female,Sad,Focused mode,Forgotten,9,Weekly,1,Pop,75,19,3,9,5,8,Low,Relationships,Low,19,0,Ambivert,Balanced,Good,648
+2027,35,Male,Angry,Work stress,Abstract,8,Weekly,6,Classical,20,72,1,6,10,11,Medium,Social Media,Low,82,50,Extrovert,Left,Poor,728
+6690,43,Female,Excited,Creativity burst,Nightmare,10,Daily,1,Metal,75,91,4,9,4,7,High,Relationships,Low,71,200,Extrovert,Balanced,Poor,358
+2868,61,Non-binary,Sad,Creativity burst,Abstract,6,Weekly,1,Metal,23,56,10,8,2,8,Low,Work,High,69,400,Extrovert,Right,Average,581
+2797,51,Non-binary,Anxious,Existential crisis,Nightmare,7,Weekly,8,Rock,49,47,3,9,5,13,High,Social Media,Medium,28,400,Extrovert,Left,Good,363
+3479,27,Female,Angry,Existential crisis,Forgotten,8,Never,7,Pop,31,79,4,10,2,5,Low,Health,Low,47,50,Introvert,Left,Good,402
+7402,53,Non-binary,Anxious,Focused mode,Abstract,5,Daily,3,Lo-fi,54,85,9,4,7,4,Low,Health,High,15,50,Introvert,Left,Good,675
+6049,31,Male,Anxious,Creativity burst,Abstract,6,Daily,6,Pop,96,62,3,9,9,7,High,Health,High,24,200,Extrovert,Right,Average,653
+6955,48,Male,Sad,Creativity burst,Forgotten,5,Daily,9,Metal,71,87,6,7,,1,Medium,Health,Low,56,300,Extrovert,Right,Average,654
+6663,65,Female,Angry,Existential crisis,Nightmare,7,Daily,7,Lo-fi,50,53,6,5,6,6,Medium,Health,High,54,400,Introvert,Balanced,Good,224
+7273,32,Female,Angry,Work stress,Abstract,8,Weekly,3,Pop,87,83,7,5,1,8,Medium,Relationships,High,14,0,Ambivert,Right,Good,369
+5328,25,Female,Happy,Work stress,Nightmare,4,Weekly,6,Classical,71,63,9,1,6,7,Medium,Social Media,Low,87,100,Ambivert,Left,Poor,958
+2647,31,Non-binary,Angry,Random nostalgia,Abstract,10,Never,4,Rock,99,29,7,2,5,2,High,Work,High,62,50,Extrovert,Balanced,Poor,844
+1341,40,Male,Happy,Existential crisis,Lucid,8,Never,3,Pop,26,88,1,10,4,14,Low,Health,Low,75,50,Ambivert,Right,Good,579
+1517,57,Male,Angry,Random nostalgia,Abstract,10,Daily,9,Pop,41,40,8,3,6,13,High,Health,Low,71,100,Extrovert,Balanced,Average,231
+9203,38,Non-binary,Angry,Existential crisis,Forgotten,7,Never,10,Classical,94,16,5,8,6,14,Medium,Work,High,32,0,Extrovert,Balanced,Average,101
+5115,33,Male,Angry,Focused mode,Forgotten,8,Never,2,Metal,75,67,9,6,6,7,Medium,Work,Low,53,-50,Extrovert,Balanced,Poor,214
+5017,62,Female,Anxious,Creativity burst,Nightmare,10,Daily,1,Rock,77,19,10,10,2,13,High,Health,Low,61,50,Introvert,Left,Good,580
+8486,35,Female,Happy,Focused mode,Abstract,9,Daily,2,Pop,83,19,5,5,7,6,Low,Relationships,Medium,55,100,Ambivert,Left,Average,100
+1341,64,Female,Anxious,Existential crisis,Nightmare,10,Never,7,Lo-fi,31,48,5,1,4,13,High,Work,Low,28,500,Introvert,Right,Average,430
+9703,41,Male,Sad,Creativity burst,Nightmare,8,Weekly,10,Pop,26,37,2,9,9,5,High,Social Media,Medium,56,50,Ambivert,Left,Average,676
+7046,43,Female,Sad,Work stress,Lucid,3,Never,1,Rock,74,39,3,3,10,4,High,Social Media,Medium,61,300,Introvert,Balanced,Average,736
+2980,42,Non-binary,Excited,Work stress,Lucid,8,Never,6,Pop,81,46,10,3,2,1,Low,Relationships,Medium,33,300,Introvert,Balanced,Poor,867
+2841,62,Non-binary,Happy,Random nostalgia,Forgotten,8,Weekly,7,Classical,92,76,9,2,5,13,High,Finance,Medium,26,50,Extrovert,Left,Average,490
+7337,58,Male,Angry,Existential crisis,Nightmare,10,Weekly,9,Pop,96,52,7,4,4,2,High,Relationships,High,55,500,Extrovert,Balanced,Average,933
+3049,46,Non-binary,Angry,Existential crisis,Forgotten,5,Daily,8,Pop,74,88,1,2,9,7,Medium,Health,High,73,50,Introvert,Left,Good,242
+4007,32,Non-binary,Sad,Work stress,Abstract,4,Daily,6,Lo-fi,55,94,3,9,4,10,High,Finance,Low,37,-50,Ambivert,Balanced,Good,427
+1822,62,Male,Sad,Focused mode,Nightmare,5,Never,3,Classical,43,61,2,10,8,3,Medium,Health,Low,59,-50,Ambivert,Right,Poor,857
+4445,18,Female,Sad,Creativity burst,Nightmare,10,Weekly,8,Classical,63,65,1,7,8,5,Medium,Social Media,Low,73,300,Extrovert,Right,Poor,727
+7171,42,Female,Excited,Focused mode,Abstract,5,Daily,7,Pop,36,85,9,8,6,8,Medium,Work,High,37,-50,Extrovert,Left,Poor,476
+9770,24,Female,Angry,Focused mode,Abstract,6,Never,3,Lo-fi,21,77,8,3,6,13,Low,Health,Medium,65,500,Ambivert,Left,Poor,914
+8754,26,Male,Sad,Work stress,Forgotten,3,Weekly,9,Pop,32,18,5,6,8,13,Medium,Social Media,High,68,-50,Ambivert,Left,Average,189
+7234,41,Non-binary,Angry,Work stress,Forgotten,5,Never,2,Pop,50,32,2,10,10,8,High,Relationships,High,14,50,Ambivert,Left,Good,907
+8620,18,Female,Anxious,Work stress,Abstract,9,Daily,3,Rock,47,72,1,6,9,6,High,Health,Low,63,500,Extrovert,Left,Average,141
+1599,61,Female,Happy,Random nostalgia,Forgotten,7,Daily,2,Rock,79,70,7,1,5,5,Medium,Social Media,Low,53,0,Ambivert,Balanced,Average,134
+3331,25,Male,Angry,Focused mode,Abstract,9,Weekly,1,Lo-fi,46,49,2,6,1,13,Medium,Work,Low,51,0,Extrovert,Right,Average,593
+3071,41,Female,Angry,Existential crisis,Nightmare,7,Never,4,Metal,34,53,1,3,1,2,High,Health,Medium,81,200,Introvert,Balanced,Good,652
+3893,28,Male,,Creativity burst,Nightmare,8,Weekly,5,Rock,98,95,2,3,2,9,Medium,Social Media,Medium,66,0,Introvert,Right,Poor,952
+4127,68,Non-binary,Sad,Random nostalgia,Lucid,6,Daily,6,Metal,52,33,7,3,10,1,Low,Health,High,56,400,Introvert,Balanced,Poor,223
+1896,34,Male,Sad,Existential crisis,Nightmare,3,Daily,5,Classical,39,60,7,10,10,11,Medium,Work,Medium,85,500,Ambivert,Balanced,Good,156
+5950,25,Male,Sad,Focused mode,Abstract,9,Never,1,Rock,61,67,10,10,5,2,Low,Health,Low,34,400,Extrovert,Balanced,Good,905
+8599,52,Male,Anxious,Work stress,Forgotten,3,Never,3,Rock,31,99,6,8,4,13,Low,Health,Medium,53,400,Ambivert,Left,Poor,555
+7765,52,Male,Sad,Focused mode,Lucid,9,Never,1,Lo-fi,92,42,5,5,1,1,Low,Social Media,Medium,24,50,Extrovert,Right,Average,334
+1726,50,Non-binary,Angry,Creativity burst,Forgotten,8,Weekly,5,Metal,42,25,3,4,4,12,Medium,Finance,Medium,60,50,Ambivert,Left,Poor,707
+5749,22,Non-binary,Anxious,Random nostalgia,Abstract,7,Never,5,Rock,91,31,3,9,4,4,Low,Health,Medium,62,100,Introvert,Left,Good,491
+4727,59,Female,Anxious,Random nostalgia,Nightmare,4,Never,6,Rock,33,66,9,9,10,4,Low,Finance,Low,43,500,Extrovert,Balanced,Poor,591
+8416,56,Non-binary,Angry,Creativity burst,Lucid,6,Daily,8,Lo-fi,44,71,4,1,4,5,Medium,Relationships,Low,86,400,Ambivert,Right,Poor,930
+9315,58,Non-binary,Excited,Existential crisis,Abstract,9,Daily,10,Lo-fi,96,91,9,2,1,5,Low,Health,High,17,400,Extrovert,Right,Poor,442
+3587,45,Female,Angry,Existential crisis,Lucid,9,Never,1,Metal,50,80,4,8,9,8,Medium,Finance,High,86,0,Extrovert,Right,Good,743
+7520,24,Non-binary,Angry,Random nostalgia,Lucid,8,Never,4,Classical,73,99,2,5,3,11,High,Relationships,High,79,300,Ambivert,Right,Good,275
+1706,26,Male,Happy,Random nostalgia,Nightmare,6,Daily,10,Classical,24,81,4,7,4,11,Low,Social Media,Medium,30,500,Ambivert,Left,Poor,151
+1724,25,Male,,Work stress,Abstract,7,Never,1,Pop,32,79,6,1,,3,Medium,Health,Medium,16,300,Extrovert,Left,Poor,649
+8413,29,Female,Happy,Existential crisis,Forgotten,7,Weekly,9,Rock,47,39,6,10,7,6,High,Social Media,Low,88,500,Extrovert,Right,Average,577
+2360,51,Female,Sad,Creativity burst,Lucid,9,Weekly,7,Metal,62,32,5,5,6,12,Low,Relationships,High,65,500,Introvert,Left,Average,588
+1388,50,Female,Happy,Existential crisis,Lucid,4,Weekly,7,Rock,66,41,1,3,5,13,Low,Social Media,Low,58,200,Extrovert,Right,Poor,954
+9869,65,Male,Anxious,Work stress,Forgotten,4,Never,5,Metal,90,95,3,10,8,12,Medium,Social Media,High,51,100,Introvert,Left,Good,104
+1509,40,Non-binary,Sad,Random nostalgia,Abstract,3,Daily,7,Metal,57,66,5,2,1,3,High,Work,High,32,300,Introvert,Balanced,Average,824
+2869,41,Male,Happy,Random nostalgia,Lucid,6,Never,2,Metal,86,18,6,2,7,13,Medium,Relationships,High,61,200,Introvert,Balanced,Poor,731
+6725,54,Female,Happy,Work stress,Lucid,6,Never,4,Rock,81,40,1,9,6,2,Low,Social Media,Medium,88,0,Extrovert,Right,Average,937
+1155,52,Non-binary,Happy,Creativity burst,Lucid,7,Daily,7,Lo-fi,58,80,9,4,5,8,Low,Finance,High,62,100,Introvert,Right,Average,980
+5244,61,Non-binary,Angry,Random nostalgia,Abstract,3,Daily,3,Rock,56,18,3,4,7,1,Low,Relationships,High,25,100,Extrovert,Left,Average,308
+4134,57,Male,Anxious,Focused mode,Abstract,8,Daily,2,Metal,27,22,10,7,3,9,Low,Work,Medium,46,400,Extrovert,Right,Good,316
+7785,39,Female,Sad,Random nostalgia,Forgotten,6,Weekly,10,Pop,100,67,3,10,1,11,High,Health,High,27,500,Ambivert,Right,Poor,635
+2106,44,Male,Angry,Focused mode,Abstract,3,Never,2,Classical,71,12,2,10,9,7,High,Social Media,Medium,29,-50,Extrovert,Left,Good,441
+4974,52,Non-binary,Anxious,Work stress,Abstract,3,Daily,1,Metal,52,44,8,2,2,12,Medium,Finance,Medium,55,500,Extrovert,Right,Good,816
+7227,18,Male,Happy,Work stress,Nightmare,9,Never,5,Pop,100,30,3,3,10,10,Medium,Work,Low,11,50,Introvert,Right,Average,500
+9119,52,Male,Sad,Random nostalgia,Forgotten,7,Weekly,6,Lo-fi,61,73,6,3,3,13,Medium,Relationships,Medium,72,500,Extrovert,Balanced,Poor,561
+5254,54,Female,,Existential crisis,Lucid,3,Weekly,6,Metal,95,61,2,6,8,12,Low,Social Media,Medium,12,500,Extrovert,Balanced,Average,837
+2574,64,Female,Angry,Focused mode,Abstract,10,Daily,9,Pop,46,43,7,3,10,11,Medium,Work,Medium,55,500,Ambivert,Balanced,Good,829
+8365,31,Non-binary,Sad,Creativity burst,Lucid,4,Daily,4,Metal,27,44,4,5,9,4,High,Work,High,58,400,Ambivert,Right,Good,310
+6293,20,Male,Angry,Random nostalgia,Lucid,10,Never,1,Rock,42,24,9,4,3,3,Medium,Finance,Low,10,0,Introvert,Left,Poor,125
+9442,18,Male,Sad,Creativity burst,Nightmare,4,Daily,6,Pop,83,15,10,3,6,6,Medium,Health,High,31,500,Introvert,Balanced,Good,351
+5075,22,Male,Angry,Random nostalgia,Abstract,5,Never,5,Rock,39,94,9,8,7,9,High,Health,Medium,23,-50,Ambivert,Right,Good,102
+2861,43,Non-binary,Happy,Existential crisis,Forgotten,7,Daily,10,Rock,35,41,7,10,1,9,High,Health,Medium,54,400,Ambivert,Balanced,Poor,101
+1613,31,Non-binary,Happy,Existential crisis,Abstract,9,Never,6,Pop,36,61,8,3,7,4,Low,Relationships,Low,15,-50,Extrovert,Left,Average,703
+6571,56,Female,Happy,Existential crisis,Lucid,8,Never,3,Classical,99,92,3,6,4,10,High,Work,Low,74,100,Introvert,Left,Poor,101
+5490,44,Female,,Existential crisis,Forgotten,10,Never,2,Pop,38,37,5,7,5,5,High,Relationships,Medium,30,400,Introvert,Left,Good,249
+2524,26,Female,Anxious,Work stress,Abstract,10,Never,6,Classical,27,94,2,7,8,11,Medium,Work,Medium,13,500,Extrovert,Left,Poor,682
+8401,32,Male,Happy,Work stress,Lucid,5,Weekly,1,Metal,57,73,10,2,4,13,High,Finance,High,12,200,Extrovert,Left,Average,103
+7192,32,Male,Happy,Focused mode,Lucid,4,Never,7,Metal,57,88,7,3,4,9,Low,Finance,Medium,39,400,Introvert,Left,Good,596
+5628,43,Female,Anxious,Creativity burst,Nightmare,9,Daily,7,Pop,72,87,8,10,8,2,Medium,Relationships,High,40,300,Ambivert,Right,Average,649
+2275,59,Male,Happy,Random nostalgia,Nightmare,5,Weekly,10,Metal,50,28,9,10,5,2,Low,Relationships,Low,43,0,Ambivert,Balanced,Average,970
+6845,30,Female,Sad,Random nostalgia,Nightmare,7,Weekly,7,Lo-fi,63,24,7,4,6,5,High,Finance,High,29,0,Extrovert,Left,Poor,567
+2529,68,Non-binary,,Work stress,Lucid,9,Never,10,Rock,79,15,10,7,5,1,Low,Social Media,Medium,63,100,Introvert,Balanced,Average,169
+5801,49,Female,Sad,Random nostalgia,Abstract,7,Weekly,1,Rock,95,82,10,2,1,8,Low,Health,High,34,400,Extrovert,Balanced,Poor,300
+7883,56,Non-binary,Anxious,Work stress,Nightmare,3,Never,4,Classical,36,93,8,3,7,5,High,Health,High,24,-50,Ambivert,Right,Poor,407
+3434,66,Male,,Focused mode,Abstract,6,Daily,7,Metal,98,47,9,7,6,12,High,Finance,Low,47,-50,Ambivert,Left,Average,351
+8470,69,Female,Sad,Creativity burst,Nightmare,3,Never,9,Classical,92,35,6,7,2,10,Medium,Health,High,32,100,Extrovert,Left,Poor,386
+9819,49,Male,Happy,Focused mode,Forgotten,7,Weekly,5,Rock,58,91,10,10,7,2,Medium,Social Media,Medium,61,100,Ambivert,Right,Poor,391
+3564,21,Non-binary,Sad,Existential crisis,Forgotten,10,Daily,2,Rock,61,60,2,3,6,12,Medium,Social Media,High,75,200,Introvert,Right,Average,253
+4800,47,Non-binary,Excited,Existential crisis,Nightmare,9,Never,7,Metal,67,82,2,1,5,9,High,Work,High,66,50,Extrovert,Right,Good,232
+8452,54,Non-binary,Excited,Existential crisis,Lucid,4,Daily,10,Lo-fi,31,62,4,3,8,2,Low,Relationships,High,66,100,Extrovert,Right,Poor,982
+1796,40,Male,Anxious,Focused mode,Nightmare,8,Daily,1,Lo-fi,37,65,9,5,5,7,Low,Health,Medium,88,50,Extrovert,Right,Poor,685
+1347,56,Male,Happy,Random nostalgia,Nightmare,4,Weekly,7,Metal,98,68,7,7,2,8,Medium,Social Media,High,61,-50,Ambivert,Balanced,Average,373
+7109,62,Male,Anxious,Creativity burst,Lucid,9,Daily,6,Metal,25,79,2,4,6,14,Medium,Relationships,Medium,44,50,Introvert,Right,Poor,882
+3194,32,Male,,Existential crisis,Forgotten,3,Weekly,7,Classical,62,87,8,1,1,6,High,Relationships,High,83,0,Extrovert,Left,Average,796
+8941,60,Non-binary,Anxious,Existential crisis,Abstract,8,Daily,10,Metal,54,67,7,6,5,14,Low,Work,Low,23,-50,Extrovert,Left,Good,608
+7131,46,Non-binary,,Existential crisis,Nightmare,9,Never,3,Lo-fi,73,97,9,2,6,11,Medium,Relationships,Low,23,300,Ambivert,Right,Good,452
+5132,53,Female,Excited,Creativity burst,Lucid,7,Daily,3,Metal,81,22,8,3,7,7,High,Relationships,Low,42,-50,Introvert,Right,Average,104
+7462,30,Female,Anxious,Existential crisis,Nightmare,10,Never,7,Classical,88,52,3,4,2,11,Medium,Finance,Medium,61,300,Extrovert,Right,Good,392
+2468,49,Male,Angry,Creativity burst,Lucid,4,Never,2,Classical,35,85,1,6,1,1,High,Work,Medium,10,400,Ambivert,Right,Average,459
+7542,24,Non-binary,Sad,Existential crisis,Abstract,7,Daily,1,Classical,27,60,2,6,6,4,Low,Work,Medium,43,200,Extrovert,Right,Poor,697
+6177,68,Non-binary,Happy,Focused mode,Abstract,8,Never,9,Classical,50,28,2,7,3,13,High,Health,High,28,200,Ambivert,Left,Good,313
+7361,39,Non-binary,Anxious,Focused mode,Forgotten,8,Daily,9,Pop,29,30,4,5,5,7,Medium,Relationships,Medium,33,300,Introvert,Balanced,Poor,505
+3905,45,Female,Sad,Creativity burst,Lucid,4,Daily,7,Metal,75,100,6,7,2,1,Medium,Health,Medium,13,400,Ambivert,Right,Poor,535
+9533,19,Female,Excited,Focused mode,Lucid,7,Never,7,Rock,95,92,4,2,,13,Low,Social Media,Medium,45,-50,Extrovert,Right,Average,114
+2413,59,Non-binary,,Creativity burst,Forgotten,5,Never,3,Metal,89,33,9,1,1,1,Low,Relationships,Medium,86,500,Extrovert,Right,Good,372
+4270,62,Non-binary,Anxious,Focused mode,Forgotten,7,Weekly,10,Pop,39,35,4,10,4,11,Medium,Social Media,Low,67,300,Ambivert,Left,Good,662
+5056,23,Non-binary,Happy,Focused mode,Lucid,8,Never,2,Classical,24,54,6,8,10,6,Medium,Finance,High,41,-50,Introvert,Left,Poor,864
+6856,45,Female,Sad,Creativity burst,Forgotten,7,Weekly,7,Pop,42,37,6,1,2,4,Medium,Relationships,Low,18,400,Introvert,Balanced,Poor,144
+8684,45,Non-binary,Happy,Random nostalgia,Abstract,10,Never,9,Lo-fi,28,91,10,2,1,3,Low,Health,High,89,400,Extrovert,Balanced,Average,802
+7256,61,Non-binary,Anxious,Focused mode,Nightmare,9,Daily,1,Lo-fi,77,38,10,10,6,12,Medium,Health,High,76,400,Extrovert,Balanced,Good,733
+3005,61,Male,Anxious,Existential crisis,Abstract,3,Never,4,Metal,78,26,1,6,4,5,Low,Relationships,Low,29,400,Ambivert,Balanced,Average,511
+6736,37,Male,,Random nostalgia,Forgotten,10,Daily,6,Metal,99,77,8,1,10,9,Medium,Health,Medium,83,0,Ambivert,Left,Average,286
+8816,47,Female,Angry,Creativity burst,Lucid,5,Daily,7,Rock,73,53,3,10,7,10,High,Relationships,Low,71,-50,Ambivert,Balanced,Average,825
+8976,28,Non-binary,,Random nostalgia,Lucid,6,Daily,10,Rock,65,70,6,3,6,10,High,Work,High,67,0,Introvert,Right,Good,760
+7224,45,Non-binary,Excited,Work stress,Abstract,9,Weekly,7,Lo-fi,41,77,3,7,5,12,Medium,Health,High,31,300,Introvert,Left,Average,269
+1889,42,Male,Sad,Work stress,Lucid,3,Never,10,Classical,83,83,2,8,10,14,High,Relationships,Medium,76,400,Extrovert,Left,Good,820
+2291,56,Female,Excited,Focused mode,Forgotten,6,Daily,2,Pop,27,34,5,4,2,14,Low,Relationships,Low,84,100,Extrovert,Left,Average,693
+9917,50,Male,Sad,Focused mode,Abstract,4,Daily,4,Rock,39,76,1,3,5,12,High,Health,High,57,400,Extrovert,Right,Poor,500
+9085,18,Male,Sad,Existential crisis,Lucid,6,Weekly,5,Rock,70,11,9,1,9,11,High,Work,Low,17,100,Ambivert,Left,Average,807
+9119,44,Male,Anxious,Random nostalgia,Nightmare,9,Never,1,Classical,97,98,7,9,9,10,Low,Health,Medium,82,0,Introvert,Right,Average,345
+6637,69,Male,Sad,Work stress,Nightmare,7,Never,1,Classical,58,58,3,10,2,3,High,Relationships,Medium,24,400,Extrovert,Balanced,Good,956
+8693,30,Non-binary,Anxious,Focused mode,Forgotten,9,Weekly,10,Metal,56,79,4,6,7,5,High,Work,High,41,50,Extrovert,Left,Poor,968
+2477,58,Non-binary,Anxious,Random nostalgia,Lucid,10,Weekly,3,Pop,69,35,6,6,10,10,Medium,Social Media,Medium,62,300,Extrovert,Right,Poor,651
+2423,20,Male,Angry,Focused mode,Forgotten,6,Never,10,Classical,53,81,3,9,4,5,Low,Finance,High,76,400,Extrovert,Left,Good,779
+6807,56,Female,Sad,Focused mode,Abstract,8,Weekly,3,Rock,94,36,7,1,3,9,Low,Health,High,13,200,Extrovert,Balanced,Good,142
+9576,23,Female,Angry,Work stress,Nightmare,3,Never,8,Rock,52,98,6,6,1,11,Medium,Relationships,Medium,39,100,Extrovert,Left,Poor,940
+4884,25,Female,Angry,Work stress,Abstract,3,Never,9,Lo-fi,50,27,9,5,3,12,Medium,Work,Medium,22,500,Introvert,Balanced,Good,822
+6661,44,Female,Angry,Focused mode,Lucid,6,Daily,1,Classical,73,63,5,6,9,10,High,Work,Low,30,500,Extrovert,Left,Poor,278
+9795,26,Male,Angry,Creativity burst,Forgotten,3,Daily,2,Metal,63,10,4,8,9,11,High,Social Media,Low,50,400,Introvert,Right,Average,556
+2503,54,Non-binary,Happy,Focused mode,Forgotten,8,Never,10,Pop,53,70,3,5,7,4,High,Health,High,28,-50,Ambivert,Balanced,Average,634
+7212,50,Female,Angry,Focused mode,Forgotten,9,Never,2,Metal,90,12,10,2,,1,Medium,Work,Low,57,50,Introvert,Left,Poor,706
+6325,68,Male,Happy,Existential crisis,Abstract,3,Never,4,Rock,81,77,1,2,3,10,Low,Social Media,High,72,100,Ambivert,Balanced,Poor,771
+4159,59,Female,Anxious,Existential crisis,Nightmare,6,Never,2,Metal,42,50,3,10,4,5,High,Relationships,Medium,29,50,Introvert,Balanced,Average,343
+3409,61,Female,Anxious,Existential crisis,Abstract,5,Never,7,Rock,65,46,3,5,7,1,Medium,Social Media,Medium,73,500,Introvert,Right,Average,116
+3884,41,Male,Angry,Creativity burst,Abstract,5,Never,9,Rock,75,60,7,3,7,6,Low,Health,Low,46,300,Extrovert,Right,Poor,211
+7475,32,Non-binary,Angry,Creativity burst,Lucid,4,Weekly,7,Rock,26,24,7,10,2,12,Medium,Social Media,High,40,500,Introvert,Right,Good,714
+6441,49,Non-binary,,Focused mode,Lucid,10,Never,6,Rock,80,17,1,3,5,10,High,Work,High,83,300,Introvert,Right,Good,925
+9374,49,Male,Excited,Existential crisis,Lucid,3,Weekly,10,Rock,22,47,3,8,7,10,Medium,Work,Low,27,300,Extrovert,Balanced,Poor,697
+3458,41,Non-binary,,Creativity burst,Nightmare,10,Weekly,1,Lo-fi,57,92,8,7,7,7,Medium,Finance,High,29,0,Ambivert,Balanced,Good,646
+9286,58,Male,Excited,Work stress,Nightmare,9,Never,10,Metal,53,65,9,1,6,1,Medium,Social Media,High,20,500,Extrovert,Left,Average,129
+8665,69,Male,Happy,Focused mode,Lucid,6,Never,9,Lo-fi,63,56,7,5,10,10,Medium,Relationships,Medium,53,-50,Extrovert,Left,Average,291
+8132,66,Male,Happy,Random nostalgia,Lucid,3,Weekly,5,Lo-fi,49,99,7,9,10,4,Low,Health,High,73,500,Extrovert,Left,Good,536
+4174,66,Non-binary,Angry,Focused mode,Nightmare,7,Weekly,5,Classical,36,19,8,4,8,9,High,Finance,High,43,50,Ambivert,Right,Poor,278
+1766,69,Male,Sad,Random nostalgia,Forgotten,8,Never,6,Classical,78,87,6,1,3,13,Low,Social Media,High,74,400,Introvert,Balanced,Average,715
+8369,29,Female,Angry,Existential crisis,Nightmare,3,Never,9,Classical,29,58,3,8,1,1,Medium,Relationships,Low,64,200,Introvert,Balanced,Average,776
+3339,56,Non-binary,Sad,Random nostalgia,Nightmare,3,Weekly,8,Pop,37,50,1,5,3,9,Medium,Finance,Low,83,200,Extrovert,Left,Average,573
+1837,19,Non-binary,Angry,Existential crisis,Nightmare,10,Weekly,8,Classical,64,92,7,2,2,8,High,Work,Low,10,-50,Extrovert,Left,Good,733
+6080,20,Non-binary,Anxious,Work stress,Lucid,10,Weekly,8,Metal,78,39,1,1,2,5,High,Health,High,47,300,Introvert,Balanced,Poor,233
+2029,66,Non-binary,Anxious,Random nostalgia,Forgotten,5,Daily,1,Lo-fi,81,14,1,3,2,6,Low,Social Media,High,18,-50,Introvert,Right,Good,901
+6437,54,Female,Angry,Focused mode,Nightmare,8,Weekly,1,Metal,78,80,9,9,5,7,Low,Relationships,Low,80,200,Introvert,Left,Poor,411
+3404,66,Non-binary,Excited,Existential crisis,Lucid,6,Daily,8,Classical,68,92,10,1,1,4,High,Work,Low,26,-50,Ambivert,Left,Poor,835
+8481,34,Non-binary,Angry,Focused mode,Abstract,3,Never,5,Pop,82,40,7,4,10,14,Low,Finance,High,61,100,Ambivert,Balanced,Good,124
+5499,66,Male,Excited,Creativity burst,Abstract,5,Never,9,Pop,51,61,4,8,4,14,Medium,Health,High,27,50,Extrovert,Balanced,Average,470
+5290,19,Non-binary,Happy,Existential crisis,Nightmare,10,Weekly,2,Lo-fi,29,97,6,8,10,6,Medium,Finance,Medium,72,50,Ambivert,Left,Poor,624
+4212,19,Female,,Random nostalgia,Abstract,4,Never,9,Metal,30,32,1,10,5,7,High,Finance,Low,42,-50,Extrovert,Left,Good,418
+9304,45,Female,Anxious,Existential crisis,Forgotten,8,Never,8,Rock,89,57,7,8,2,11,Low,Relationships,High,13,50,Introvert,Right,Average,329
+1103,40,Female,Sad,Focused mode,Abstract,5,Never,9,Metal,81,49,6,10,5,6,Medium,Work,Low,84,100,Introvert,Right,Poor,201
+6257,54,Female,Happy,Work stress,Abstract,5,Never,4,Classical,66,15,4,8,10,11,High,Social Media,Low,61,400,Extrovert,Right,Poor,549
+2311,49,Non-binary,Angry,Existential crisis,Forgotten,9,Daily,1,Rock,53,47,7,4,4,13,Low,Relationships,Low,18,0,Introvert,Right,Average,477
+5018,50,Non-binary,Happy,Random nostalgia,Nightmare,5,Daily,1,Pop,36,50,3,8,8,12,Medium,Health,Medium,73,100,Extrovert,Left,Poor,987
+6186,18,Female,Happy,Creativity burst,Nightmare,9,Weekly,5,Lo-fi,73,36,1,9,1,6,Low,Finance,High,39,50,Extrovert,Left,Good,302
+5264,36,Female,Anxious,Work stress,Forgotten,3,Weekly,2,Lo-fi,95,84,4,7,5,2,Low,Health,High,17,50,Extrovert,Left,Poor,366
+6077,19,Non-binary,Angry,Creativity burst,Forgotten,3,Weekly,8,Pop,59,78,3,2,,5,Low,Relationships,Low,14,500,Ambivert,Right,Poor,561
+8155,61,Female,Anxious,Existential crisis,Forgotten,10,Never,10,Classical,38,66,1,9,1,3,High,Relationships,High,85,50,Extrovert,Left,Average,464
+7100,43,Male,,Focused mode,Abstract,4,Never,5,Pop,86,26,2,8,10,7,Medium,Social Media,Medium,72,400,Extrovert,Balanced,Good,833
+3761,49,Female,Angry,Focused mode,Forgotten,7,Daily,5,Classical,72,80,5,5,10,4,High,Finance,Low,10,200,Extrovert,Right,Average,203
+7260,23,Female,Angry,Random nostalgia,Lucid,7,Daily,2,Rock,83,100,8,3,4,1,Medium,Relationships,Medium,24,0,Ambivert,Balanced,Good,210
+5064,49,Male,Happy,Focused mode,Abstract,7,Weekly,7,Pop,66,56,1,7,8,12,Medium,Health,Medium,47,100,Introvert,Right,Average,527
+5191,21,Male,Anxious,Work stress,Nightmare,10,Daily,8,Classical,25,88,4,2,1,12,High,Social Media,High,51,-50,Ambivert,Left,Poor,568
+2659,28,Non-binary,Sad,Focused mode,Nightmare,9,Daily,10,Rock,35,22,4,3,2,6,High,Health,High,55,50,Extrovert,Right,Good,680
+9191,34,Non-binary,,Random nostalgia,Nightmare,10,Daily,1,Pop,91,20,5,9,1,6,Medium,Finance,Medium,62,500,Ambivert,Balanced,Good,969
+4116,55,Male,Excited,Existential crisis,Abstract,8,Daily,2,Lo-fi,37,99,7,4,7,7,Medium,Social Media,High,35,500,Introvert,Right,Poor,869
+7363,41,Male,Angry,Existential crisis,Lucid,8,Daily,10,Pop,71,95,8,4,2,11,Medium,Social Media,Medium,70,300,Introvert,Balanced,Average,779
+8905,22,Non-binary,Happy,Focused mode,Forgotten,4,Weekly,4,Metal,67,33,6,3,1,8,Low,Social Media,Medium,76,0,Extrovert,Left,Good,904
+3679,69,Female,Excited,Creativity burst,Forgotten,8,Weekly,5,Pop,62,82,1,5,6,3,Medium,Work,Low,63,500,Introvert,Balanced,Poor,985
+5074,51,Male,Anxious,Existential crisis,Nightmare,7,Daily,2,Metal,58,13,7,3,6,14,High,Social Media,Medium,31,300,Ambivert,Left,Poor,660
+1119,23,Non-binary,Happy,Focused mode,Nightmare,7,Weekly,1,Rock,68,55,3,9,10,6,High,Health,Medium,35,0,Ambivert,Balanced,Good,349
+1152,39,Female,Sad,Random nostalgia,Abstract,10,Never,9,Pop,31,27,6,3,2,10,High,Health,High,69,50,Introvert,Left,Good,581
+9339,28,Male,Anxious,Focused mode,Lucid,5,Daily,1,Rock,29,52,8,2,1,2,Medium,Finance,Low,48,0,Extrovert,Balanced,Good,430
+7064,65,Female,Happy,Existential crisis,Forgotten,8,Never,4,Rock,90,89,7,5,10,13,Medium,Relationships,High,45,0,Extrovert,Left,Poor,686
+2109,33,Non-binary,,Random nostalgia,Abstract,10,Weekly,2,Classical,74,42,10,6,3,14,Low,Relationships,Low,30,-50,Ambivert,Left,Average,300
+8240,50,Male,Angry,Focused mode,Forgotten,3,Weekly,4,Rock,20,19,6,1,10,9,Low,Work,High,50,50,Introvert,Left,Average,553
+4735,26,Female,Happy,Work stress,Nightmare,3,Never,8,Rock,68,82,9,6,5,2,High,Social Media,Medium,57,400,Ambivert,Balanced,Good,603
+9471,23,Male,Excited,Random nostalgia,Forgotten,5,Weekly,8,Pop,55,68,9,10,6,3,Low,Work,Low,35,500,Ambivert,Balanced,Poor,645
+3008,33,Female,Sad,Work stress,Lucid,5,Daily,9,Pop,40,40,1,3,3,12,Low,Finance,Low,72,300,Ambivert,Left,Poor,925
+8351,46,Non-binary,Angry,Creativity burst,Lucid,5,Never,5,Lo-fi,56,37,1,4,9,13,High,Finance,Low,86,-50,Extrovert,Right,Good,210
+7295,20,Non-binary,Happy,Random nostalgia,Nightmare,10,Daily,7,Classical,43,69,1,6,5,10,Medium,Relationships,Low,45,-50,Introvert,Left,Poor,963
+4539,37,Male,Happy,Work stress,Lucid,3,Never,3,Rock,74,12,8,8,2,12,Low,Finance,High,33,400,Introvert,Right,Poor,927
+6208,53,Female,Anxious,Existential crisis,Lucid,7,Weekly,10,Classical,44,64,10,9,10,12,Medium,Social Media,High,30,300,Extrovert,Left,Poor,848
+6687,36,Male,Angry,Existential crisis,Abstract,5,Never,4,Metal,26,23,7,6,6,2,High,Health,Low,27,200,Ambivert,Balanced,Good,643
+6834,43,Male,Angry,Creativity burst,Forgotten,4,Never,10,Rock,100,67,3,7,8,9,High,Finance,Low,24,500,Ambivert,Right,Good,308
+1876,20,Female,Anxious,Random nostalgia,Nightmare,9,Daily,9,Classical,90,98,2,5,,1,Low,Work,Low,88,300,Extrovert,Balanced,Good,743
+8690,36,Female,Anxious,Random nostalgia,Nightmare,10,Weekly,10,Lo-fi,90,24,4,9,4,5,High,Social Media,High,15,300,Introvert,Right,Average,717
+5375,37,Female,Happy,Random nostalgia,Nightmare,5,Daily,10,Lo-fi,43,11,3,4,6,1,High,Finance,Low,52,0,Extrovert,Right,Average,132
+4353,49,Non-binary,Sad,Creativity burst,Nightmare,9,Weekly,1,Rock,30,33,7,10,8,5,High,Finance,Low,40,200,Introvert,Right,Good,654
+8610,24,Male,,Random nostalgia,Nightmare,6,Daily,2,Metal,92,87,10,6,8,8,Low,Social Media,Low,37,50,Introvert,Right,Poor,979
+4196,69,Male,Anxious,Existential crisis,Lucid,5,Never,5,Lo-fi,31,73,8,5,10,8,Low,Finance,High,17,50,Introvert,Balanced,Poor,206
+5104,58,Non-binary,Angry,Work stress,Abstract,3,Daily,3,Lo-fi,54,80,6,1,2,11,Low,Health,Medium,38,100,Ambivert,Right,Good,364
+7873,50,Female,Sad,Existential crisis,Nightmare,8,Weekly,2,Metal,82,33,3,5,8,8,High,Relationships,Medium,30,200,Ambivert,Left,Poor,325
+8155,57,Non-binary,Sad,Existential crisis,Abstract,5,Weekly,1,Classical,87,36,6,5,6,2,Medium,Social Media,High,90,0,Extrovert,Left,Poor,586
+5931,56,Non-binary,Anxious,Work stress,Abstract,10,Never,10,Lo-fi,76,46,2,9,2,8,High,Work,Medium,67,100,Extrovert,Right,Average,278
+7689,35,Non-binary,Excited,Existential crisis,Lucid,8,Weekly,3,Pop,32,100,7,1,1,12,Low,Finance,Low,69,100,Ambivert,Balanced,Poor,321
+5690,57,Male,Anxious,Creativity burst,Nightmare,6,Daily,1,Lo-fi,42,48,10,5,6,5,Medium,Relationships,Low,59,50,Extrovert,Balanced,Poor,469
+2976,18,Non-binary,Excited,Work stress,Lucid,4,Never,1,Classical,58,72,7,7,7,1,Medium,Work,High,40,300,Ambivert,Right,Good,736
+2692,28,Male,Anxious,Existential crisis,Nightmare,8,Weekly,1,Classical,99,88,4,6,10,7,Low,Work,High,56,0,Ambivert,Balanced,Average,887
+4267,45,Male,Happy,Focused mode,Lucid,9,Weekly,8,Rock,31,35,8,6,5,13,Medium,Health,Medium,43,-50,Introvert,Balanced,Average,266
+8125,42,Male,Angry,Existential crisis,Abstract,7,Daily,3,Pop,53,74,4,7,10,6,Medium,Relationships,Medium,11,-50,Introvert,Balanced,Poor,762
+3493,67,Female,Happy,Creativity burst,Nightmare,5,Daily,1,Classical,90,13,7,6,8,5,Low,Social Media,Low,76,200,Ambivert,Right,Good,652
+4688,40,Male,Sad,Random nostalgia,Forgotten,6,Never,7,Metal,94,38,4,5,9,1,Medium,Relationships,High,81,100,Introvert,Left,Average,399
+6494,48,Male,Excited,Existential crisis,Abstract,6,Weekly,10,Pop,50,10,5,10,4,14,Medium,Relationships,Medium,61,0,Ambivert,Left,Average,480
+6216,47,Female,Angry,Random nostalgia,Forgotten,8,Daily,3,Pop,81,59,7,5,7,14,Low,Work,Medium,16,50,Introvert,Left,Poor,134
+4745,59,Male,Angry,Focused mode,Abstract,4,Never,8,Metal,32,95,10,9,8,1,Medium,Health,Low,85,100,Extrovert,Left,Average,506
+3405,52,Non-binary,Happy,Existential crisis,Lucid,3,Weekly,4,Lo-fi,50,20,3,8,6,6,Medium,Health,Low,28,100,Extrovert,Left,Good,601
+4090,24,Non-binary,Sad,Work stress,Nightmare,5,Weekly,4,Metal,21,83,10,10,2,10,Medium,Relationships,Low,24,400,Ambivert,Balanced,Good,413
+2732,33,Male,Sad,Random nostalgia,Abstract,6,Never,5,Metal,34,68,5,4,7,12,Medium,Relationships,Low,87,50,Ambivert,Balanced,Average,915
+9607,43,Female,Sad,Focused mode,Lucid,4,Never,6,Lo-fi,76,71,3,4,9,7,Low,Finance,Medium,57,-50,Introvert,Balanced,Good,842
+1444,65,Non-binary,Anxious,Work stress,Nightmare,7,Daily,7,Lo-fi,94,90,5,10,5,10,High,Work,High,23,400,Introvert,Right,Good,826
+5061,69,Female,Sad,Work stress,Nightmare,6,Weekly,4,Lo-fi,53,45,3,5,2,10,High,Social Media,High,12,50,Ambivert,Balanced,Poor,925
+7947,66,Female,Anxious,Work stress,Abstract,4,Weekly,8,Lo-fi,87,65,10,3,4,1,Medium,Social Media,Low,59,50,Extrovert,Left,Average,200
+2356,19,Non-binary,Happy,Work stress,Nightmare,10,Weekly,6,Lo-fi,94,99,7,8,3,9,Low,Health,Low,63,400,Extrovert,Balanced,Average,668
+8938,18,Female,Happy,Existential crisis,Abstract,3,Never,1,Metal,48,30,1,7,4,4,Low,Work,Medium,15,-50,Ambivert,Left,Poor,314
+6325,65,Non-binary,Sad,Existential crisis,Nightmare,3,Daily,1,Rock,85,22,9,5,10,5,Medium,Health,Low,58,500,Extrovert,Balanced,Poor,767
+6182,29,Female,Angry,Existential crisis,Forgotten,6,Weekly,9,Rock,35,18,9,10,7,2,High,Social Media,High,32,0,Ambivert,Left,Poor,675
+8909,22,Non-binary,Anxious,Focused mode,Lucid,9,Never,10,Classical,58,20,5,3,10,14,Medium,Relationships,Low,87,0,Introvert,Balanced,Poor,161
+8594,54,Male,Angry,Focused mode,Forgotten,6,Weekly,6,Rock,96,84,9,5,,12,Low,Work,High,87,500,Extrovert,Left,Good,950
+4210,49,Non-binary,Angry,Focused mode,Abstract,8,Daily,10,Rock,56,79,10,3,1,10,Low,Work,Low,29,0,Extrovert,Left,Good,468
+6738,26,Non-binary,Anxious,Creativity burst,Forgotten,5,Weekly,8,Metal,100,10,6,10,8,13,High,Finance,Low,86,300,Introvert,Right,Poor,467
+6736,58,Non-binary,Happy,Focused mode,Abstract,4,Daily,7,Lo-fi,40,79,5,5,5,8,Low,Relationships,High,69,100,Introvert,Balanced,Average,673
+3002,52,Non-binary,Sad,Existential crisis,Nightmare,6,Daily,6,Lo-fi,63,86,3,1,7,14,Low,Relationships,Medium,54,0,Extrovert,Left,Average,193
+8478,36,Female,Excited,Existential crisis,Nightmare,5,Weekly,4,Metal,38,95,8,6,1,2,Low,Health,Medium,70,300,Extrovert,Balanced,Average,568
+1618,65,Male,Anxious,Creativity burst,Abstract,8,Weekly,7,Rock,90,65,4,10,2,3,High,Work,Low,65,100,Ambivert,Left,Poor,952
+3222,33,Non-binary,Sad,Creativity burst,Forgotten,10,Daily,9,Metal,27,40,10,4,1,12,Low,Health,Low,11,0,Ambivert,Right,Good,125
+1138,20,Female,,Focused mode,Nightmare,10,Never,10,Classical,96,95,3,4,5,9,Medium,Relationships,High,54,50,Extrovert,Right,Good,534
+9225,37,Male,Anxious,Random nostalgia,Lucid,5,Daily,10,Lo-fi,85,46,6,8,6,2,High,Finance,High,49,500,Ambivert,Right,Good,220
+5297,41,Male,Sad,Creativity burst,Nightmare,6,Weekly,7,Pop,60,56,8,2,10,14,Medium,Work,Low,33,200,Introvert,Right,Good,149
+2997,50,Male,Anxious,Work stress,Lucid,3,Weekly,1,Classical,94,100,9,4,9,6,Medium,Relationships,High,38,0,Ambivert,Left,Average,982
+1080,41,Male,Angry,Existential crisis,Forgotten,4,Never,10,Classical,89,87,6,2,8,12,High,Finance,Medium,76,200,Ambivert,Balanced,Average,863
+4643,69,Non-binary,Angry,Work stress,Lucid,4,Daily,9,Metal,80,56,5,1,7,4,Medium,Social Media,Medium,77,0,Extrovert,Right,Good,135
+7368,28,Non-binary,Sad,Existential crisis,Lucid,10,Daily,4,Rock,45,78,2,10,,7,High,Relationships,High,75,50,Ambivert,Right,Poor,509
+1026,66,Female,Sad,Existential crisis,Lucid,10,Daily,3,Lo-fi,90,67,2,3,3,14,Medium,Social Media,High,63,500,Extrovert,Right,Good,388
+1160,25,Female,Anxious,Creativity burst,Lucid,3,Weekly,4,Pop,89,45,9,8,9,14,High,Health,High,62,-50,Extrovert,Balanced,Good,478
+3791,53,Female,Angry,Creativity burst,Nightmare,9,Daily,4,Classical,48,41,2,6,5,6,Low,Social Media,Medium,88,500,Extrovert,Left,Poor,199
+6546,55,Male,Excited,Work stress,Lucid,6,Never,10,Pop,85,73,2,7,3,10,Low,Relationships,Low,58,200,Introvert,Left,Good,423
+4640,57,Male,Anxious,Existential crisis,Nightmare,10,Weekly,2,Rock,38,80,3,2,3,14,Medium,Social Media,High,41,300,Ambivert,Left,Average,428
+1613,37,Non-binary,Happy,Work stress,Lucid,10,Weekly,1,Rock,87,51,3,6,3,9,Low,Work,High,70,50,Ambivert,Left,Poor,747
+1367,52,Male,Anxious,Random nostalgia,Abstract,10,Daily,10,Pop,77,57,4,8,6,14,High,Relationships,High,51,200,Ambivert,Balanced,Poor,805
+8359,65,Male,Sad,Work stress,Forgotten,4,Never,1,Lo-fi,89,83,7,8,1,9,Medium,Finance,Low,10,200,Extrovert,Balanced,Good,320
+4058,42,Male,Angry,Focused mode,Lucid,6,Weekly,8,Rock,76,90,9,4,4,10,Low,Social Media,High,72,400,Introvert,Balanced,Average,890
+6552,52,Female,Anxious,Work stress,Abstract,8,Weekly,2,Pop,56,39,2,6,8,4,Low,Work,High,44,400,Extrovert,Right,Average,937
+8947,42,Female,Sad,Focused mode,Lucid,6,Daily,10,Classical,80,30,4,5,,1,Medium,Health,Medium,60,50,Ambivert,Balanced,Average,666
+8370,46,Non-binary,Angry,Focused mode,Lucid,5,Daily,5,Pop,49,69,9,9,5,2,Low,Health,High,80,50,Extrovert,Left,Good,209
+1419,35,Male,Happy,Focused mode,Lucid,3,Never,4,Pop,90,22,2,8,2,8,Low,Social Media,Medium,54,50,Extrovert,Balanced,Good,248
+9311,63,Male,Happy,Random nostalgia,Abstract,9,Daily,8,Metal,92,10,10,2,2,14,Medium,Health,Low,86,100,Ambivert,Right,Average,505
+9702,35,Non-binary,Sad,Work stress,Forgotten,10,Never,2,Rock,44,74,1,7,7,10,Low,Finance,High,74,300,Extrovert,Left,Good,876
+8919,19,Male,Sad,Work stress,Abstract,10,Weekly,10,Lo-fi,84,42,10,7,10,8,Low,Relationships,High,23,0,Extrovert,Balanced,Average,773
+2630,52,Male,,Random nostalgia,Forgotten,6,Never,9,Lo-fi,25,47,8,1,3,14,Low,Work,Medium,12,-50,Introvert,Left,Good,798
+5676,33,Female,Angry,Existential crisis,Lucid,9,Never,7,Metal,37,34,9,1,5,2,Low,Social Media,Low,33,400,Extrovert,Left,Poor,509
+2517,58,Non-binary,Sad,Creativity burst,Nightmare,10,Never,7,Lo-fi,29,35,7,4,3,4,Medium,Health,Low,74,500,Introvert,Balanced,Poor,228
+3071,53,Non-binary,Angry,Work stress,Lucid,9,Weekly,1,Pop,30,86,8,5,6,1,High,Relationships,Medium,57,500,Ambivert,Balanced,Good,583
+1168,50,Non-binary,Happy,Creativity burst,Forgotten,8,Daily,2,Metal,84,68,4,4,10,7,High,Finance,Low,19,200,Introvert,Right,Good,207
+5897,21,Non-binary,,Random nostalgia,Abstract,7,Weekly,4,Classical,96,42,4,7,3,4,Low,Health,Low,22,400,Extrovert,Balanced,Average,488
+7259,50,Female,Anxious,Existential crisis,Lucid,3,Daily,4,Rock,84,50,2,3,8,11,Low,Health,Low,82,0,Ambivert,Balanced,Poor,524
+2415,31,Female,Anxious,Existential crisis,Abstract,9,Never,3,Rock,71,39,8,7,2,14,High,Work,Low,23,50,Extrovert,Balanced,Average,546
+4654,38,Male,Happy,Existential crisis,Abstract,4,Never,7,Rock,86,66,2,8,3,8,Low,Finance,Low,19,500,Extrovert,Left,Good,167
+6881,65,Male,Angry,Random nostalgia,Abstract,5,Never,8,Pop,97,58,9,6,8,9,High,Finance,Low,49,400,Introvert,Right,Average,165
+4611,37,Male,Angry,Focused mode,Lucid,4,Never,2,Classical,50,57,4,6,8,12,Medium,Social Media,Low,32,300,Extrovert,Left,Average,755
+5782,25,Male,Excited,Focused mode,Abstract,10,Never,4,Metal,36,81,1,8,1,9,Medium,Work,Low,64,300,Introvert,Balanced,Good,664
+3404,24,Female,Happy,Creativity burst,Abstract,8,Daily,3,Metal,74,58,4,8,8,3,Medium,Social Media,High,72,-50,Ambivert,Right,Poor,739
+4836,20,Non-binary,Sad,Focused mode,Lucid,8,Daily,2,Rock,55,56,3,7,10,5,Medium,Work,Medium,80,100,Ambivert,Balanced,Average,603
+3285,34,Female,,Focused mode,Abstract,4,Never,6,Classical,45,65,6,6,2,6,Medium,Finance,Low,51,400,Extrovert,Left,Good,603
+6614,50,Male,Angry,Existential crisis,Lucid,3,Weekly,4,Classical,72,74,7,6,7,6,Medium,Work,Medium,75,50,Introvert,Left,Average,420
+6070,65,Female,Sad,Existential crisis,Forgotten,4,Weekly,6,Classical,36,21,8,10,6,10,High,Work,Low,88,200,Extrovert,Balanced,Good,818
+5153,29,Non-binary,Happy,Creativity burst,Forgotten,6,Never,2,Lo-fi,44,78,2,6,2,8,Low,Work,Low,82,-50,Extrovert,Right,Good,931
+5440,68,Non-binary,,Work stress,Forgotten,10,Daily,4,Lo-fi,21,97,6,8,5,6,High,Relationships,High,56,-50,Extrovert,Left,Good,827
+5729,39,Female,Happy,Creativity burst,Abstract,10,Weekly,6,Rock,24,15,6,1,7,6,Medium,Relationships,Medium,90,100,Extrovert,Balanced,Poor,679
+2206,39,Female,Anxious,Creativity burst,Nightmare,4,Weekly,5,Classical,23,98,10,5,8,4,Low,Finance,Medium,61,50,Introvert,Balanced,Poor,546
+2931,63,Female,Anxious,Random nostalgia,Nightmare,5,Weekly,3,Classical,55,74,5,3,3,7,Low,Work,High,27,-50,Extrovert,Balanced,Good,673
+5275,47,Male,Sad,Random nostalgia,Abstract,5,Never,8,Metal,25,34,10,8,1,14,Medium,Finance,High,88,100,Ambivert,Right,Poor,309
+3443,55,Female,Anxious,Creativity burst,Nightmare,10,Weekly,7,Metal,40,10,10,6,7,14,Medium,Relationships,Medium,27,400,Introvert,Balanced,Average,948
+8972,55,Female,Happy,Creativity burst,Lucid,7,Weekly,3,Rock,96,41,7,2,,8,Medium,Work,Low,33,0,Extrovert,Balanced,Poor,938
+4755,62,Female,Sad,Creativity burst,Nightmare,5,Weekly,6,Classical,45,12,3,7,5,3,Medium,Social Media,Low,32,-50,Introvert,Left,Poor,469
+4968,68,Non-binary,Anxious,Focused mode,Abstract,4,Weekly,4,Rock,74,58,4,7,7,7,Medium,Relationships,Medium,21,500,Extrovert,Balanced,Average,663
+8040,25,Non-binary,Excited,Random nostalgia,Abstract,5,Daily,5,Metal,58,28,10,5,1,3,Medium,Relationships,Low,32,400,Ambivert,Right,Average,727
+9756,44,Male,Anxious,Creativity burst,Lucid,10,Never,5,Metal,52,69,9,8,8,8,Low,Relationships,High,30,50,Ambivert,Balanced,Average,992
+9034,44,Male,Angry,Existential crisis,Forgotten,3,Never,7,Lo-fi,33,38,4,5,10,1,Medium,Work,High,73,200,Ambivert,Right,Good,557
+6556,51,Non-binary,Happy,Existential crisis,Abstract,9,Daily,5,Rock,75,59,3,1,5,1,Medium,Health,High,81,200,Introvert,Balanced,Average,994
+6360,38,Non-binary,Happy,Focused mode,Lucid,5,Daily,3,Rock,100,11,2,9,8,14,Low,Social Media,Medium,43,50,Ambivert,Balanced,Average,676
+7308,47,Non-binary,Happy,Focused mode,Nightmare,6,Never,10,Classical,40,82,5,4,10,6,High,Social Media,Medium,11,100,Extrovert,Balanced,Average,741
+7758,50,Female,Sad,Work stress,Nightmare,3,Weekly,5,Classical,65,65,4,2,10,10,Medium,Finance,Medium,78,300,Extrovert,Right,Good,788
+6191,45,Female,Sad,Work stress,Lucid,7,Weekly,7,Lo-fi,35,26,8,4,5,9,Low,Work,Low,40,50,Extrovert,Left,Poor,889
+6685,64,Non-binary,Sad,Work stress,Lucid,6,Never,5,Pop,35,69,7,9,7,12,Low,Relationships,Medium,77,500,Introvert,Right,Good,262
+8035,50,Female,Sad,Focused mode,Abstract,4,Weekly,5,Pop,48,45,6,2,10,14,High,Health,Medium,79,-50,Introvert,Left,Poor,431
+6519,22,Female,Sad,Focused mode,Nightmare,9,Daily,9,Pop,27,70,2,4,3,4,Medium,Work,High,28,400,Ambivert,Right,Average,763
+4157,65,Male,Angry,Focused mode,Lucid,4,Weekly,3,Rock,22,26,3,2,2,6,Medium,Work,Low,81,200,Introvert,Balanced,Good,449
+2750,36,Non-binary,Excited,Existential crisis,Nightmare,9,Weekly,6,Rock,38,58,10,5,6,12,Medium,Health,Low,22,0,Extrovert,Balanced,Good,847
+1797,21,Non-binary,Sad,Focused mode,Lucid,9,Weekly,1,Metal,85,85,9,3,5,5,Low,Relationships,High,74,200,Extrovert,Left,Poor,769
+9718,52,Female,,Existential crisis,Nightmare,4,Never,10,Rock,98,69,9,10,9,12,Medium,Work,Low,15,300,Extrovert,Left,Good,567
+6154,66,Non-binary,Excited,Work stress,Forgotten,6,Daily,5,Rock,93,29,5,2,10,1,Medium,Social Media,Medium,80,-50,Introvert,Right,Good,525
+8777,34,Male,Happy,Work stress,Abstract,6,Weekly,8,Rock,41,59,3,9,,6,Medium,Social Media,Low,36,200,Extrovert,Right,Poor,426
+4576,61,Male,Anxious,Work stress,Nightmare,9,Never,5,Lo-fi,65,12,2,5,3,9,Medium,Health,High,88,300,Ambivert,Left,Good,205
+6746,45,Male,Angry,Creativity burst,Forgotten,6,Weekly,9,Rock,32,52,8,10,9,12,High,Relationships,Low,61,-50,Introvert,Left,Good,917
+2058,47,Non-binary,Angry,Creativity burst,Nightmare,9,Daily,6,Classical,52,66,6,5,8,3,High,Health,High,57,500,Extrovert,Right,Average,354
+4543,46,Non-binary,Sad,Random nostalgia,Nightmare,10,Weekly,8,Classical,24,59,10,1,6,11,High,Work,Medium,88,-50,Extrovert,Left,Average,457
+3532,63,Non-binary,Angry,Random nostalgia,Forgotten,9,Daily,10,Metal,96,77,7,6,,3,Medium,Social Media,Medium,77,50,Introvert,Left,Average,543
+9679,23,Non-binary,Sad,Random nostalgia,Nightmare,10,Weekly,8,Lo-fi,46,90,1,7,10,14,Medium,Finance,High,53,200,Introvert,Left,Average,212
+3219,52,Non-binary,Angry,Creativity burst,Nightmare,3,Daily,3,Classical,97,59,1,1,1,2,Low,Health,Medium,26,100,Ambivert,Left,Average,129
+9652,58,Male,Anxious,Creativity burst,Abstract,8,Weekly,7,Lo-fi,43,46,10,9,6,13,Low,Finance,Medium,47,400,Introvert,Balanced,Good,623
+2677,54,Female,Anxious,Random nostalgia,Forgotten,3,Daily,7,Lo-fi,86,55,2,8,3,4,Low,Finance,Low,19,100,Extrovert,Balanced,Good,788
+5842,41,Male,Angry,Random nostalgia,Forgotten,4,Weekly,10,Metal,82,51,10,8,,10,Medium,Social Media,Medium,63,400,Ambivert,Left,Average,949
+5981,46,Non-binary,Anxious,Focused mode,Lucid,8,Weekly,6,Lo-fi,67,24,3,7,,3,High,Health,High,15,200,Extrovert,Right,Poor,145
+1353,66,Male,Happy,Random nostalgia,Nightmare,5,Never,7,Rock,82,42,1,5,3,12,High,Finance,Medium,15,500,Extrovert,Balanced,Average,270
+1619,63,Non-binary,Sad,Focused mode,Abstract,4,Never,2,Lo-fi,97,89,5,3,10,2,High,Work,Low,61,200,Extrovert,Right,Good,229
+7054,48,Non-binary,Excited,Existential crisis,Nightmare,7,Daily,9,Metal,31,20,3,9,6,1,Medium,Relationships,High,24,400,Introvert,Right,Poor,856
+2556,52,Male,Sad,Creativity burst,Nightmare,3,Weekly,10,Metal,47,29,1,7,5,3,High,Relationships,Medium,77,500,Introvert,Balanced,Average,452
+1366,50,Non-binary,Happy,Random nostalgia,Lucid,6,Daily,10,Metal,63,33,8,10,4,10,Low,Social Media,Medium,66,0,Extrovert,Right,Poor,302
+8919,69,Female,Happy,Creativity burst,Nightmare,3,Never,1,Classical,62,73,6,10,8,6,Low,Health,Medium,65,500,Introvert,Right,Average,325
+1118,38,Non-binary,Sad,Creativity burst,Abstract,6,Daily,1,Rock,36,89,9,8,2,9,High,Health,High,16,200,Extrovert,Left,Good,179
+3413,49,Female,,Creativity burst,Abstract,8,Daily,3,Classical,59,74,3,6,7,11,Low,Relationships,Low,60,0,Introvert,Left,Average,409
+5236,40,Female,Angry,Existential crisis,Lucid,7,Never,3,Pop,68,97,9,5,4,5,High,Work,High,67,0,Introvert,Left,Poor,134
+3136,50,Non-binary,,Work stress,Nightmare,8,Weekly,1,Rock,76,97,9,8,2,3,High,Relationships,High,73,400,Introvert,Balanced,Good,663
+4645,20,Male,Angry,Random nostalgia,Abstract,7,Daily,7,Lo-fi,83,82,1,3,7,14,Low,Relationships,Low,35,0,Ambivert,Left,Average,260
+1077,35,Female,Angry,Work stress,Nightmare,3,Never,4,Metal,94,95,3,7,1,5,Low,Health,High,67,0,Introvert,Right,Average,695
+2147,42,Male,Sad,Work stress,Nightmare,6,Weekly,10,Pop,76,85,6,2,,5,Low,Finance,High,40,50,Ambivert,Right,Average,939
+4786,59,Female,Anxious,Work stress,Nightmare,8,Never,2,Rock,93,26,8,3,9,5,Low,Work,Medium,75,500,Ambivert,Right,Average,534
+9722,48,Non-binary,Happy,Creativity burst,Lucid,7,Daily,10,Classical,93,98,4,2,4,12,High,Health,High,22,-50,Ambivert,Right,Good,637
+6506,20,Non-binary,Excited,Focused mode,Nightmare,9,Weekly,5,Metal,89,70,5,5,3,12,Low,Relationships,Medium,27,100,Extrovert,Right,Good,324
+9007,57,Female,Excited,Creativity burst,Abstract,4,Weekly,6,Classical,95,24,9,7,,7,Low,Finance,High,84,0,Introvert,Balanced,Average,545
+7908,63,Non-binary,Sad,Creativity burst,Nightmare,4,Never,9,Rock,62,60,6,10,10,5,Medium,Work,Medium,22,-50,Extrovert,Right,Good,416
+4071,41,Female,,Work stress,Abstract,8,Never,4,Rock,42,36,7,10,2,7,Low,Social Media,Medium,33,100,Ambivert,Balanced,Poor,765
+7804,67,Non-binary,Excited,Creativity burst,Nightmare,6,Never,2,Pop,46,95,7,1,3,9,Low,Work,Medium,66,-50,Introvert,Right,Good,904
+9422,49,Male,Anxious,Work stress,Abstract,9,Weekly,5,Lo-fi,77,83,4,10,1,5,High,Work,Low,38,0,Extrovert,Balanced,Poor,513
+5824,64,Non-binary,Happy,Focused mode,Abstract,8,Weekly,3,Classical,56,70,4,9,10,2,High,Relationships,High,65,100,Ambivert,Balanced,Poor,194
+5528,39,Male,Angry,Random nostalgia,Nightmare,3,Daily,2,Pop,25,67,4,1,8,5,Medium,Relationships,High,63,200,Extrovert,Right,Good,324
+1588,40,Non-binary,Angry,Work stress,Nightmare,7,Weekly,1,Metal,84,40,5,1,1,8,Low,Social Media,High,14,200,Extrovert,Right,Average,878
+4671,19,Male,Sad,Focused mode,Abstract,10,Daily,10,Lo-fi,25,100,5,10,3,12,Low,Social Media,Low,44,100,Introvert,Right,Good,652
+4993,44,Non-binary,Happy,Random nostalgia,Forgotten,3,Never,2,Pop,69,21,8,8,3,4,Low,Social Media,Medium,28,500,Introvert,Right,Poor,744
+5517,59,Male,Anxious,Existential crisis,Lucid,4,Never,6,Classical,41,55,9,6,2,2,Low,Health,High,64,0,Extrovert,Left,Poor,165
+3689,19,Female,Happy,Work stress,Forgotten,7,Weekly,8,Rock,44,40,2,6,5,10,Low,Health,Low,86,50,Introvert,Left,Good,496
+2103,43,Female,Angry,Work stress,Forgotten,8,Never,3,Metal,98,41,7,9,10,3,Low,Relationships,Low,78,-50,Introvert,Balanced,Poor,309
+9394,34,Male,,Existential crisis,Nightmare,3,Never,9,Classical,91,41,1,4,3,9,Medium,Relationships,High,53,500,Extrovert,Balanced,Good,573
+8939,57,Non-binary,Excited,Existential crisis,Lucid,5,Weekly,9,Lo-fi,70,62,1,8,3,9,Low,Social Media,Medium,87,100,Introvert,Left,Good,764
+3241,50,Male,Sad,Work stress,Forgotten,10,Daily,2,Lo-fi,67,70,4,4,8,8,Low,Health,Low,47,500,Introvert,Balanced,Average,783
+5734,26,Non-binary,Excited,Existential crisis,Nightmare,6,Weekly,8,Rock,89,55,10,2,4,8,Low,Finance,High,71,-50,Ambivert,Right,Poor,936
+4776,60,Female,Happy,Creativity burst,Forgotten,9,Daily,10,Rock,84,94,7,8,4,8,Medium,Health,Medium,31,300,Introvert,Balanced,Good,670
+7127,65,Non-binary,Happy,Random nostalgia,Forgotten,9,Weekly,5,Metal,79,83,2,7,3,8,Low,Relationships,Low,82,50,Ambivert,Balanced,Poor,795
+8975,56,Female,Anxious,Random nostalgia,Nightmare,6,Weekly,4,Metal,65,89,2,4,1,8,Medium,Health,Low,49,-50,Extrovert,Balanced,Good,589
+5584,46,Non-binary,Sad,Random nostalgia,Nightmare,5,Never,10,Rock,55,16,1,9,8,1,High,Relationships,High,35,300,Ambivert,Left,Good,279
+8954,59,Non-binary,Sad,Creativity burst,Nightmare,4,Weekly,5,Rock,77,13,10,9,1,6,Low,Social Media,High,14,-50,Extrovert,Left,Average,933
+7326,43,Non-binary,Angry,Existential crisis,Lucid,7,Weekly,4,Lo-fi,95,100,2,8,,12,Medium,Social Media,Medium,63,-50,Introvert,Balanced,Good,935
+1030,52,Male,Happy,Focused mode,Forgotten,6,Daily,8,Rock,57,61,7,1,5,9,High,Social Media,High,58,100,Introvert,Right,Average,623
+7083,67,Male,Sad,Existential crisis,Nightmare,5,Never,4,Pop,30,98,9,7,,8,Medium,Finance,High,12,0,Ambivert,Balanced,Poor,558
+7669,42,Female,Angry,Work stress,Abstract,8,Daily,10,Classical,31,40,6,5,4,3,Medium,Finance,Medium,47,500,Extrovert,Left,Average,167
+5150,41,Female,Anxious,Random nostalgia,Forgotten,10,Daily,6,Rock,61,84,10,7,8,11,High,Relationships,High,23,500,Introvert,Right,Average,428
+2027,30,Male,Anxious,Existential crisis,Abstract,9,Never,2,Metal,58,93,2,9,6,1,Low,Work,Medium,56,300,Ambivert,Balanced,Poor,301
+5857,24,Female,Sad,Focused mode,Lucid,10,Never,5,Pop,90,45,10,2,1,2,Low,Finance,Medium,23,500,Ambivert,Left,Average,574
+3289,53,Male,Angry,Work stress,Nightmare,5,Never,6,Metal,30,63,10,4,10,11,Medium,Relationships,Medium,84,100,Ambivert,Right,Average,617
+3612,62,Non-binary,Happy,Creativity burst,Abstract,10,Weekly,5,Pop,55,63,9,4,8,2,High,Health,High,82,50,Introvert,Balanced,Good,114
+4531,37,Female,Happy,Creativity burst,Lucid,4,Never,2,Rock,71,26,7,2,2,7,Low,Social Media,Medium,47,0,Extrovert,Left,Average,141
+2338,18,Female,Anxious,Focused mode,Nightmare,4,Never,7,Classical,50,84,1,3,6,12,Medium,Social Media,High,73,300,Introvert,Right,Good,642
+4610,25,Male,Sad,Work stress,Abstract,3,Never,4,Metal,52,39,9,8,9,6,High,Social Media,Medium,53,500,Introvert,Balanced,Average,792
+9059,63,Female,Happy,Random nostalgia,Abstract,6,Daily,8,Pop,32,31,2,9,1,11,Medium,Relationships,High,79,100,Extrovert,Right,Poor,873
+1155,33,Female,Anxious,Existential crisis,Lucid,3,Daily,7,Lo-fi,37,52,4,6,6,2,High,Social Media,Medium,74,0,Ambivert,Right,Poor,388
+2813,31,Non-binary,Anxious,Work stress,Nightmare,10,Weekly,7,Rock,60,36,9,10,8,8,Low,Finance,Low,34,0,Introvert,Right,Average,632
+1237,29,Female,Anxious,Creativity burst,Nightmare,9,Daily,9,Classical,77,46,4,2,10,9,Low,Health,Low,25,200,Ambivert,Left,Good,991
+3317,68,Non-binary,Sad,Focused mode,Abstract,5,Weekly,1,Rock,75,55,3,2,2,7,Medium,Social Media,Low,24,0,Ambivert,Balanced,Average,793
+1603,40,Male,Sad,Focused mode,Abstract,7,Daily,10,Lo-fi,43,44,1,7,5,4,Low,Relationships,Medium,90,-50,Extrovert,Right,Good,795
+3551,32,Female,Sad,Existential crisis,Abstract,10,Never,6,Classical,92,13,7,8,6,13,Low,Health,High,12,100,Extrovert,Right,Average,343
+5808,45,Non-binary,Happy,Focused mode,Nightmare,7,Daily,6,Lo-fi,50,89,6,8,5,13,High,Social Media,Medium,76,50,Extrovert,Right,Poor,961
+5792,51,Male,Anxious,Focused mode,Lucid,4,Weekly,6,Rock,74,89,10,6,3,1,Low,Work,Medium,46,400,Ambivert,Left,Poor,760
+2914,19,Female,Excited,Work stress,Lucid,7,Daily,6,Pop,29,94,4,10,4,4,High,Social Media,Medium,90,200,Ambivert,Right,Good,867
+4683,49,Male,Anxious,Random nostalgia,Nightmare,7,Never,10,Rock,79,35,6,8,7,4,High,Finance,Medium,64,100,Introvert,Left,Average,711
+3185,40,Female,Anxious,Existential crisis,Forgotten,9,Weekly,7,Rock,21,28,6,1,4,8,Medium,Health,High,47,100,Ambivert,Left,Good,666
+2026,39,Male,Angry,Work stress,Lucid,7,Never,10,Rock,34,90,4,9,9,4,High,Finance,Medium,72,100,Extrovert,Right,Poor,797
+9582,68,Male,Anxious,Random nostalgia,Abstract,10,Never,6,Metal,22,54,6,1,10,4,Low,Work,Low,10,300,Extrovert,Right,Good,931
+4478,42,Non-binary,Sad,Work stress,Forgotten,5,Weekly,1,Lo-fi,62,35,10,3,2,13,High,Work,Low,80,500,Extrovert,Left,Average,697
+3253,39,Male,Angry,Work stress,Forgotten,7,Never,3,Lo-fi,50,31,8,9,5,2,High,Finance,Low,28,300,Extrovert,Left,Good,273
+5817,39,Female,Angry,Focused mode,Lucid,8,Never,2,Lo-fi,89,67,3,5,8,12,Medium,Health,Medium,61,-50,Ambivert,Right,Average,633
+6106,66,Female,Happy,Random nostalgia,Forgotten,7,Daily,6,Metal,86,72,4,9,5,10,Low,Work,High,39,50,Extrovert,Left,Average,608
+6376,69,Non-binary,Sad,Existential crisis,Forgotten,7,Never,8,Pop,75,37,10,9,10,7,Low,Work,High,64,-50,Introvert,Left,Poor,343
+2938,59,Female,,Existential crisis,Lucid,3,Never,3,Rock,82,74,1,6,8,4,Low,Social Media,High,23,100,Ambivert,Right,Average,159
+1766,23,Female,Sad,Random nostalgia,Lucid,5,Never,10,Pop,94,53,4,1,8,11,High,Relationships,Medium,22,500,Extrovert,Right,Average,203
+2809,32,Female,Happy,Focused mode,Forgotten,10,Never,8,Metal,34,52,10,10,9,6,Low,Work,High,36,-50,Introvert,Balanced,Average,750
+9877,60,Male,Angry,Creativity burst,Abstract,4,Weekly,8,Lo-fi,29,46,10,7,10,3,Low,Health,Low,18,300,Extrovert,Right,Good,402
+8903,54,Male,Anxious,Work stress,Nightmare,3,Daily,5,Rock,57,75,9,6,6,7,High,Health,High,50,300,Ambivert,Right,Poor,770
+4197,50,Female,Angry,Focused mode,Forgotten,10,Never,8,Classical,66,26,8,9,4,6,Medium,Social Media,Medium,57,300,Ambivert,Right,Good,843
+1534,25,Non-binary,Anxious,Random nostalgia,Forgotten,6,Never,6,Classical,76,49,4,7,3,3,Medium,Health,Medium,21,50,Introvert,Balanced,Good,176
+3077,61,Male,Happy,Work stress,Abstract,5,Weekly,5,Pop,69,47,7,4,5,4,High,Social Media,High,19,50,Ambivert,Left,Poor,117
+3973,61,Non-binary,Anxious,Existential crisis,Forgotten,8,Never,9,Lo-fi,90,94,10,7,6,10,Medium,Work,Medium,15,100,Introvert,Right,Good,633
+9984,22,Female,Sad,Creativity burst,Forgotten,5,Weekly,7,Classical,34,70,3,2,3,14,Medium,Work,High,43,200,Extrovert,Right,Good,283
+5494,56,Female,Excited,Existential crisis,Nightmare,6,Daily,8,Pop,37,18,9,6,2,5,Medium,Work,High,61,-50,Ambivert,Balanced,Average,756
+9293,21,Male,Anxious,Random nostalgia,Nightmare,6,Daily,1,Metal,21,86,10,6,7,9,Low,Work,Low,50,100,Extrovert,Balanced,Good,649
+9401,23,Female,Happy,Work stress,Nightmare,6,Never,2,Pop,62,84,4,2,,14,Medium,Relationships,Medium,15,300,Extrovert,Balanced,Poor,380
+1200,62,Male,Happy,Random nostalgia,Lucid,9,Never,8,Pop,45,70,2,4,9,6,Low,Relationships,Low,11,400,Ambivert,Left,Good,387
+6967,49,Female,Happy,Work stress,Lucid,4,Never,9,Pop,90,89,10,8,3,13,Medium,Work,Medium,24,-50,Extrovert,Balanced,Average,754
+3844,69,Female,Sad,Focused mode,Nightmare,7,Weekly,4,Rock,57,25,5,8,8,4,Low,Health,High,26,500,Introvert,Left,Good,624
+1171,47,Male,Sad,Creativity burst,Nightmare,5,Never,10,Pop,61,11,2,8,,11,High,Social Media,Medium,25,300,Introvert,Right,Poor,797
+6186,64,Male,Anxious,Focused mode,Lucid,10,Never,10,Pop,24,81,10,8,4,11,High,Finance,High,37,0,Introvert,Right,Average,573
+1141,52,Male,Angry,Focused mode,Abstract,9,Daily,9,Rock,30,52,6,1,9,7,Medium,Social Media,Medium,81,400,Ambivert,Right,Good,366
+1813,57,Female,Sad,Random nostalgia,Forgotten,10,Never,4,Rock,84,51,10,2,5,2,Low,Finance,Low,19,400,Extrovert,Balanced,Poor,880
+3276,69,Female,Happy,Creativity burst,Forgotten,7,Daily,10,Metal,53,86,1,4,10,4,High,Finance,Low,19,500,Extrovert,Right,Poor,708
+9691,33,Non-binary,Happy,Work stress,Nightmare,7,Never,10,Lo-fi,20,66,6,9,6,5,High,Work,High,19,100,Extrovert,Balanced,Good,456
+9755,30,Male,Excited,Work stress,Abstract,8,Daily,10,Classical,21,90,4,3,9,4,High,Finance,Low,82,300,Extrovert,Left,Good,905
+1193,67,Female,Sad,Existential crisis,Lucid,6,Never,9,Classical,39,97,3,6,,4,High,Work,High,37,300,Introvert,Right,Average,100
+7434,59,Female,Anxious,Work stress,Nightmare,4,Daily,7,Pop,80,76,2,7,5,11,Medium,Relationships,High,33,200,Ambivert,Left,Good,906
+6578,47,Male,Excited,Random nostalgia,Abstract,8,Weekly,2,Metal,40,39,7,8,2,13,Low,Health,High,28,0,Introvert,Balanced,Average,126
+4668,36,Non-binary,Anxious,Focused mode,Abstract,3,Daily,9,Pop,87,22,9,7,4,9,High,Finance,Medium,77,100,Introvert,Balanced,Good,647
+6099,34,Male,Excited,Focused mode,Abstract,9,Daily,4,Classical,31,28,3,3,2,14,Medium,Health,High,65,50,Ambivert,Right,Poor,259
+9418,36,Non-binary,Sad,Focused mode,Lucid,9,Daily,8,Rock,41,16,6,6,3,11,High,Work,Low,76,100,Ambivert,Right,Poor,498
+7796,45,Female,,Creativity burst,Lucid,4,Never,7,Lo-fi,39,18,9,5,10,13,High,Finance,Medium,51,-50,Introvert,Balanced,Poor,642
+1986,43,Non-binary,Happy,Work stress,Forgotten,7,Never,7,Metal,20,92,2,10,3,2,High,Social Media,Low,21,-50,Extrovert,Right,Poor,226
+8865,54,Female,Happy,Random nostalgia,Forgotten,10,Never,8,Rock,49,63,7,4,4,6,High,Relationships,High,27,400,Ambivert,Right,Average,873
+2954,43,Male,Anxious,Creativity burst,Abstract,9,Weekly,1,Lo-fi,43,95,5,1,6,14,Medium,Relationships,High,32,100,Ambivert,Left,Poor,956
+8750,40,Male,,Existential crisis,Abstract,4,Weekly,5,Metal,33,91,5,7,3,8,Low,Finance,Low,15,200,Introvert,Balanced,Average,309
+1235,26,Male,Excited,Random nostalgia,Lucid,9,Daily,2,Metal,55,70,7,8,10,8,Medium,Relationships,Medium,62,100,Extrovert,Left,Average,249
+5923,29,Non-binary,Happy,Random nostalgia,Forgotten,9,Weekly,2,Classical,88,96,9,2,1,11,Medium,Social Media,Low,51,200,Ambivert,Right,Average,130
+7984,18,Female,Sad,Random nostalgia,Abstract,6,Daily,1,Rock,94,11,4,7,1,7,Medium,Health,High,75,400,Introvert,Left,Good,711
+3400,18,Male,,Focused mode,Forgotten,3,Daily,5,Metal,43,59,9,6,9,10,High,Social Media,Medium,39,200,Ambivert,Balanced,Average,940
+8313,64,Male,Sad,Random nostalgia,Forgotten,6,Daily,2,Metal,79,84,10,5,9,11,Low,Relationships,High,18,500,Extrovert,Left,Good,401
+7419,51,Female,Anxious,Work stress,Abstract,3,Weekly,4,Lo-fi,74,40,9,4,5,4,High,Health,High,51,500,Introvert,Left,Average,964
+3687,49,Male,Excited,Random nostalgia,Lucid,9,Never,3,Classical,96,42,4,2,9,7,Medium,Social Media,Low,43,-50,Introvert,Right,Good,830
+7956,65,Female,Angry,Focused mode,Abstract,8,Weekly,3,Pop,99,87,3,10,7,13,High,Work,High,49,300,Extrovert,Balanced,Good,864
+1188,42,Female,Sad,Random nostalgia,Abstract,10,Daily,2,Classical,43,89,2,6,9,10,Low,Work,Low,26,50,Introvert,Right,Poor,782
+4151,57,Female,Angry,Existential crisis,Forgotten,7,Daily,6,Pop,96,20,9,5,7,6,Low,Health,Medium,38,400,Extrovert,Right,Average,356
+7303,62,Female,Sad,Existential crisis,Abstract,9,Weekly,2,Rock,43,42,2,2,9,11,High,Health,High,59,-50,Introvert,Balanced,Good,156
+8311,18,Female,Excited,Focused mode,Lucid,3,Daily,8,Rock,73,16,6,10,2,6,Medium,Health,High,85,200,Extrovert,Left,Poor,108
+9206,33,Non-binary,Angry,Work stress,Abstract,3,Daily,8,Metal,45,40,5,7,8,2,High,Work,Medium,58,0,Ambivert,Right,Average,104
+7819,56,Male,Excited,Work stress,Lucid,3,Weekly,5,Rock,85,57,5,6,7,8,Medium,Social Media,Low,82,400,Ambivert,Left,Poor,946
+1410,22,Non-binary,Happy,Creativity burst,Lucid,9,Weekly,10,Metal,99,56,4,9,6,8,Low,Health,High,70,0,Ambivert,Balanced,Good,213
+8498,39,Male,,Focused mode,Forgotten,4,Weekly,7,Classical,57,87,6,10,5,14,High,Work,Medium,55,50,Introvert,Right,Poor,876
+6085,46,Non-binary,Angry,Random nostalgia,Nightmare,8,Daily,4,Rock,84,62,5,5,4,11,Low,Health,High,55,200,Extrovert,Left,Poor,784
+2342,20,Female,Happy,Focused mode,Nightmare,4,Daily,1,Classical,94,89,4,9,7,7,Medium,Health,Low,26,400,Extrovert,Left,Average,831
+2538,29,Male,Happy,Creativity burst,Forgotten,7,Never,2,Classical,70,28,9,9,3,11,Medium,Health,Low,75,400,Ambivert,Right,Good,304
+1216,43,Male,Anxious,Focused mode,Abstract,9,Never,10,Rock,54,90,6,1,8,9,High,Work,Low,14,50,Ambivert,Balanced,Average,123
+1622,33,Non-binary,Anxious,Focused mode,Forgotten,3,Weekly,10,Classical,62,99,10,5,2,8,High,Social Media,Low,63,300,Ambivert,Left,Average,592
+2057,68,Non-binary,Excited,Creativity burst,Lucid,8,Never,4,Rock,48,15,10,9,1,14,High,Work,Medium,25,0,Extrovert,Balanced,Poor,781
+6582,54,Male,Happy,Work stress,Nightmare,8,Daily,1,Rock,56,58,10,7,2,9,Low,Work,High,90,400,Ambivert,Right,Good,505
+7571,39,Non-binary,Happy,Random nostalgia,Forgotten,5,Never,8,Rock,100,82,3,6,9,9,Medium,Health,Medium,16,100,Introvert,Left,Average,202
+3754,46,Non-binary,Angry,Creativity burst,Abstract,7,Daily,9,Pop,77,59,10,6,5,6,Medium,Finance,Low,17,0,Ambivert,Left,Good,159
+9446,31,Non-binary,Sad,Existential crisis,Forgotten,10,Weekly,4,Classical,73,90,6,7,8,2,Low,Finance,Low,81,-50,Ambivert,Left,Average,185
+6767,45,Female,Angry,Work stress,Nightmare,10,Weekly,10,Lo-fi,58,21,1,1,3,12,High,Finance,Low,47,200,Extrovert,Balanced,Poor,866
+7426,22,Female,,Existential crisis,Forgotten,8,Daily,3,Rock,61,32,5,4,7,7,High,Work,Low,63,50,Introvert,Left,Average,776
+3787,64,Non-binary,,Work stress,Forgotten,9,Never,2,Classical,47,63,10,1,2,3,Low,Health,High,85,-50,Extrovert,Left,Average,471
+7209,66,Non-binary,,Random nostalgia,Nightmare,3,Weekly,5,Metal,48,78,6,6,8,13,Medium,Finance,Low,24,0,Introvert,Right,Average,778
+8517,47,Female,Anxious,Random nostalgia,Lucid,3,Weekly,3,Rock,62,68,8,4,7,7,Medium,Relationships,High,59,100,Introvert,Left,Good,695
+9629,63,Female,Sad,Focused mode,Lucid,8,Never,10,Rock,22,45,9,1,5,9,Medium,Relationships,Low,65,500,Ambivert,Balanced,Poor,301
+7439,69,Male,Angry,Existential crisis,Nightmare,4,Never,7,Lo-fi,29,12,3,9,4,10,Medium,Relationships,High,18,100,Ambivert,Right,Good,701
+2045,22,Male,Angry,Work stress,Forgotten,7,Daily,6,Pop,78,67,2,4,1,14,Low,Social Media,High,17,-50,Extrovert,Right,Average,188
+3410,29,Female,Excited,Random nostalgia,Nightmare,3,Never,1,Pop,33,97,4,6,5,10,Medium,Health,Low,28,50,Extrovert,Left,Poor,536
+1822,33,Non-binary,Happy,Creativity burst,Lucid,8,Never,8,Rock,95,64,8,7,9,2,Low,Work,Medium,60,-50,Extrovert,Right,Good,219
+9829,43,Non-binary,Angry,Random nostalgia,Abstract,3,Never,2,Classical,66,66,8,8,10,14,High,Work,Medium,81,50,Introvert,Left,Average,255
+2244,43,Non-binary,Happy,Creativity burst,Forgotten,10,Daily,5,Metal,61,26,3,9,4,13,Low,Health,Medium,66,500,Extrovert,Right,Poor,498
+3215,65,Non-binary,Angry,Work stress,Lucid,8,Daily,9,Metal,51,48,4,9,9,6,Medium,Social Media,Medium,77,0,Introvert,Balanced,Poor,799
+5951,38,Male,Excited,Random nostalgia,Forgotten,7,Weekly,8,Classical,51,99,3,8,2,13,High,Health,Medium,40,200,Introvert,Left,Average,287
+3855,56,Female,Anxious,Random nostalgia,Nightmare,8,Daily,2,Rock,61,77,10,10,4,6,Low,Social Media,Low,12,300,Introvert,Balanced,Poor,873
+4429,53,Non-binary,Sad,Work stress,Abstract,5,Weekly,9,Metal,51,64,2,3,9,9,Low,Finance,Low,52,100,Introvert,Left,Poor,151
+2275,50,Male,,Random nostalgia,Nightmare,8,Never,5,Pop,45,54,4,2,4,13,Low,Finance,Low,38,50,Introvert,Balanced,Good,751
+2017,47,Non-binary,Anxious,Creativity burst,Abstract,8,Weekly,10,Classical,20,85,6,5,5,9,High,Social Media,Low,19,300,Ambivert,Balanced,Poor,630
+5681,54,Female,Happy,Random nostalgia,Forgotten,9,Weekly,6,Lo-fi,75,10,5,1,8,13,Low,Health,Low,21,-50,Introvert,Right,Good,579
+7683,40,Male,Sad,Existential crisis,Forgotten,10,Never,3,Rock,21,30,3,3,1,5,Medium,Finance,Low,55,300,Introvert,Left,Good,686
+5227,27,Female,Sad,Focused mode,Nightmare,7,Weekly,3,Classical,100,92,2,1,1,14,High,Health,High,39,300,Ambivert,Right,Good,329
+6495,22,Female,Happy,Creativity burst,Abstract,9,Daily,10,Metal,49,30,9,3,9,5,High,Finance,High,41,200,Ambivert,Balanced,Good,580
+2931,53,Male,,Existential crisis,Abstract,8,Daily,8,Rock,90,61,1,4,9,9,Low,Health,Low,82,50,Ambivert,Left,Poor,229
+6478,51,Male,Angry,Work stress,Forgotten,7,Daily,10,Pop,71,91,9,7,4,8,Medium,Health,Low,56,-50,Extrovert,Balanced,Poor,154
+5161,69,Male,Excited,Creativity burst,Nightmare,5,Daily,10,Rock,28,52,1,5,2,7,High,Relationships,High,72,100,Extrovert,Balanced,Good,370
+4916,48,Male,Sad,Focused mode,Abstract,7,Weekly,2,Rock,41,61,7,5,9,8,Low,Social Media,High,35,50,Introvert,Balanced,Poor,199
+3220,27,Male,Happy,Focused mode,Forgotten,3,Weekly,2,Pop,53,76,6,1,4,6,Medium,Work,Low,12,0,Introvert,Balanced,Good,168
+4887,36,Male,Angry,Work stress,Lucid,9,Never,5,Pop,68,53,7,8,6,3,Low,Social Media,High,32,-50,Introvert,Right,Good,398
+8606,49,Male,Happy,Work stress,Nightmare,7,Weekly,6,Rock,20,41,3,4,1,7,Low,Health,Medium,84,100,Introvert,Balanced,Good,628
+2522,18,Non-binary,Angry,Creativity burst,Lucid,10,Weekly,2,Pop,92,19,3,10,9,8,High,Health,Medium,83,-50,Ambivert,Right,Average,453
+1333,22,Female,,Random nostalgia,Nightmare,5,Weekly,5,Classical,72,73,1,5,5,8,High,Social Media,Medium,59,50,Extrovert,Balanced,Poor,727
+7185,62,Male,Angry,Work stress,Forgotten,6,Never,7,Pop,59,88,4,2,3,1,Low,Health,High,45,100,Ambivert,Left,Poor,251
+6260,21,Non-binary,Anxious,Random nostalgia,Abstract,8,Daily,10,Pop,64,78,2,1,4,7,High,Finance,Low,22,0,Extrovert,Balanced,Good,429
+7787,33,Non-binary,Happy,Existential crisis,Abstract,7,Weekly,10,Rock,87,77,10,9,,3,High,Health,Low,38,400,Ambivert,Balanced,Poor,215
+5299,41,Non-binary,Happy,Focused mode,Abstract,8,Never,8,Classical,28,37,8,2,,2,Medium,Social Media,Low,47,100,Introvert,Left,Good,641
+4495,33,Female,Happy,Random nostalgia,Nightmare,4,Never,7,Lo-fi,41,62,3,6,8,14,Medium,Social Media,High,86,400,Extrovert,Left,Poor,422
+1931,19,Male,Angry,Focused mode,Forgotten,3,Never,8,Lo-fi,37,60,7,1,4,2,Low,Social Media,High,14,300,Introvert,Balanced,Good,662
+6189,66,Non-binary,Happy,Random nostalgia,Lucid,9,Daily,9,Metal,95,62,7,1,2,14,Low,Relationships,Medium,29,500,Extrovert,Balanced,Good,671
+8095,45,Female,Sad,Existential crisis,Forgotten,3,Weekly,5,Pop,62,13,9,9,9,14,Low,Relationships,High,87,-50,Extrovert,Right,Average,328
+3721,49,Female,Angry,Work stress,Lucid,4,Never,5,Pop,58,88,6,4,4,8,Low,Relationships,Medium,23,200,Introvert,Left,Good,870
+7754,44,Female,Sad,Existential crisis,Nightmare,4,Daily,10,Classical,92,26,1,9,9,9,Medium,Relationships,Medium,17,0,Introvert,Left,Average,459
+4825,37,Non-binary,Happy,Work stress,Nightmare,9,Never,4,Lo-fi,25,76,8,5,10,3,High,Relationships,Low,57,100,Introvert,Right,Poor,104
+7147,41,Male,Sad,Work stress,Lucid,7,Never,9,Metal,67,83,1,7,3,14,Medium,Relationships,High,22,0,Ambivert,Balanced,Poor,127
+9339,29,Non-binary,,Focused mode,Lucid,4,Never,5,Classical,26,56,3,1,7,3,Low,Relationships,Low,33,300,Extrovert,Balanced,Average,865
+9205,67,Non-binary,Anxious,Existential crisis,Lucid,6,Never,2,Pop,99,65,5,6,7,6,Low,Social Media,Low,88,400,Extrovert,Left,Poor,463
+9079,52,Male,Angry,Random nostalgia,Forgotten,8,Never,10,Lo-fi,88,32,8,8,10,11,Medium,Work,High,74,200,Extrovert,Right,Average,561
+5989,50,Male,Happy,Existential crisis,Lucid,8,Daily,8,Metal,35,27,9,1,4,10,Medium,Relationships,High,43,0,Introvert,Balanced,Poor,330
+2264,50,Male,,Focused mode,Nightmare,5,Weekly,7,Rock,20,10,7,9,2,1,Low,Social Media,Medium,60,400,Extrovert,Left,Average,494
+1094,68,Female,Anxious,Work stress,Nightmare,10,Weekly,8,Lo-fi,56,44,9,3,9,6,High,Work,Medium,12,300,Extrovert,Balanced,Average,968
+2160,60,Male,Sad,Focused mode,Abstract,4,Weekly,3,Metal,56,73,3,1,4,12,Low,Relationships,Medium,87,300,Introvert,Balanced,Good,811
+1158,54,Non-binary,Excited,Creativity burst,Lucid,4,Weekly,4,Classical,100,67,5,1,8,3,Medium,Work,Medium,67,300,Introvert,Balanced,Poor,943
+4425,29,Male,Sad,Creativity burst,Forgotten,6,Daily,5,Rock,83,68,10,6,2,11,Low,Work,Low,81,-50,Extrovert,Left,Good,370
+3083,20,Non-binary,Angry,Random nostalgia,Forgotten,3,Daily,6,Metal,81,10,8,6,8,4,Low,Finance,Low,64,500,Ambivert,Right,Average,950
+1137,18,Female,Anxious,Focused mode,Forgotten,3,Daily,1,Metal,91,12,1,1,10,9,High,Health,High,89,-50,Introvert,Right,Good,403
+4435,50,Non-binary,Sad,Random nostalgia,Abstract,8,Never,4,Pop,80,76,8,3,5,3,Low,Finance,Medium,51,400,Ambivert,Balanced,Average,482
+9375,57,Non-binary,,Random nostalgia,Nightmare,8,Never,10,Lo-fi,52,46,7,7,7,1,Low,Work,Medium,30,100,Ambivert,Right,Poor,657
+6812,27,Male,Anxious,Creativity burst,Forgotten,7,Never,5,Pop,85,92,1,10,7,3,Low,Social Media,Medium,19,50,Ambivert,Balanced,Poor,127
+9669,60,Male,Angry,Random nostalgia,Nightmare,9,Weekly,7,Rock,49,38,10,3,9,7,Medium,Relationships,Low,66,0,Ambivert,Left,Poor,618
+1262,61,Non-binary,Happy,Creativity burst,Abstract,10,Never,5,Metal,39,98,10,3,3,13,Medium,Health,High,34,500,Introvert,Left,Average,843
+2229,46,Male,Happy,Work stress,Lucid,6,Weekly,1,Pop,79,42,6,3,10,7,High,Relationships,Low,65,50,Extrovert,Left,Good,298
+9986,30,Female,Sad,Focused mode,Lucid,9,Never,7,Lo-fi,93,70,1,7,4,11,Low,Social Media,High,47,300,Extrovert,Balanced,Poor,705
+5309,29,Female,Anxious,Random nostalgia,Lucid,9,Weekly,8,Rock,43,99,2,4,10,5,Medium,Health,High,70,50,Introvert,Right,Average,181
+3662,48,Male,Sad,Creativity burst,Forgotten,5,Never,7,Classical,23,13,5,4,4,14,High,Finance,Low,56,400,Introvert,Left,Good,187
+9388,63,Female,Angry,Existential crisis,Lucid,9,Never,4,Pop,56,23,2,3,10,1,Low,Work,Low,63,-50,Ambivert,Balanced,Average,489
+7457,19,Male,Anxious,Random nostalgia,Forgotten,5,Daily,8,Rock,23,100,10,10,5,11,High,Social Media,High,55,300,Ambivert,Right,Average,797
+1377,68,Non-binary,Happy,Work stress,Abstract,9,Never,5,Classical,96,42,1,9,6,8,High,Work,Low,77,-50,Introvert,Right,Poor,854
+3929,67,Non-binary,Anxious,Work stress,Abstract,6,Never,10,Pop,96,31,6,2,3,10,High,Work,Low,13,500,Extrovert,Right,Average,679
+7181,52,Female,Happy,Existential crisis,Forgotten,5,Daily,9,Rock,37,57,8,4,4,8,High,Relationships,High,75,300,Ambivert,Balanced,Average,922
+6320,40,Male,,Creativity burst,Nightmare,3,Weekly,10,Rock,85,12,8,8,3,10,High,Social Media,High,52,200,Introvert,Balanced,Good,550
+4610,34,Male,Angry,Random nostalgia,Lucid,5,Daily,5,Pop,67,96,8,6,2,12,High,Work,Medium,71,200,Introvert,Balanced,Poor,532
+6741,43,Female,Happy,Creativity burst,Lucid,5,Daily,1,Rock,52,94,6,7,10,10,High,Finance,Low,13,500,Introvert,Left,Average,473
+4995,25,Non-binary,Sad,Work stress,Lucid,6,Weekly,9,Metal,77,32,3,7,9,13,Low,Health,High,74,400,Ambivert,Balanced,Average,534
+9951,46,Female,Angry,Creativity burst,Forgotten,6,Never,5,Pop,92,77,1,2,1,10,Low,Social Media,Low,71,400,Introvert,Left,Good,286
+7143,43,Non-binary,Anxious,Work stress,Abstract,5,Weekly,6,Rock,47,30,2,4,2,2,High,Relationships,Low,11,50,Extrovert,Left,Average,850
+8810,27,Male,Anxious,Creativity burst,Lucid,10,Never,4,Classical,54,52,5,10,8,10,Low,Social Media,High,18,500,Introvert,Left,Average,489
+1220,43,Non-binary,Anxious,Existential crisis,Abstract,4,Never,6,Classical,29,94,10,10,7,3,High,Relationships,Medium,66,-50,Ambivert,Balanced,Average,317
+6702,51,Female,Happy,Focused mode,Lucid,10,Weekly,8,Metal,84,35,5,6,1,4,Low,Health,High,54,0,Extrovert,Left,Average,207
+8369,68,Male,Happy,Existential crisis,Lucid,6,Daily,3,Pop,61,50,10,3,5,1,Medium,Finance,High,27,500,Extrovert,Balanced,Average,918
+9305,58,Female,Happy,Existential crisis,Forgotten,10,Weekly,5,Rock,28,47,1,9,10,4,High,Work,Low,57,50,Introvert,Balanced,Good,649
+7550,24,Female,Angry,Focused mode,Nightmare,10,Never,2,Rock,79,97,1,4,6,5,Medium,Social Media,Medium,51,400,Introvert,Left,Average,448
+3771,21,Non-binary,Excited,Focused mode,Forgotten,7,Weekly,2,Classical,34,20,9,10,5,3,High,Relationships,High,50,0,Extrovert,Left,Average,887
+4496,67,Female,Angry,Random nostalgia,Lucid,7,Weekly,7,Metal,76,38,2,2,4,14,High,Health,Low,84,500,Introvert,Left,Average,621
+1145,62,Non-binary,Happy,Random nostalgia,Lucid,3,Never,10,Classical,88,69,7,6,1,11,Medium,Work,High,67,50,Ambivert,Balanced,Average,125
+1956,28,Male,Angry,Existential crisis,Nightmare,9,Daily,10,Classical,41,76,10,1,7,10,Medium,Health,Low,51,100,Extrovert,Balanced,Poor,147
+7679,46,Non-binary,Excited,Existential crisis,Abstract,5,Weekly,10,Metal,83,74,4,6,9,2,Medium,Finance,High,44,-50,Introvert,Left,Poor,958
+4359,53,Male,Anxious,Work stress,Abstract,4,Never,6,Pop,60,70,7,10,6,13,High,Work,Medium,47,100,Extrovert,Left,Poor,469
+2838,42,Non-binary,Excited,Work stress,Lucid,3,Never,4,Rock,90,28,8,1,3,6,Medium,Work,High,76,-50,Introvert,Right,Poor,113
+8398,38,Female,Sad,Random nostalgia,Abstract,5,Weekly,5,Pop,75,55,5,8,10,8,Medium,Work,Low,50,0,Introvert,Left,Good,711
+5122,53,Non-binary,Happy,Random nostalgia,Lucid,10,Daily,1,Lo-fi,42,58,1,5,4,7,Low,Relationships,High,59,200,Ambivert,Right,Poor,286
+1673,27,Non-binary,Excited,Work stress,Nightmare,6,Weekly,7,Lo-fi,44,31,4,6,10,11,Low,Work,Medium,81,-50,Introvert,Right,Good,623
+5010,54,Male,Anxious,Work stress,Nightmare,7,Daily,8,Lo-fi,25,87,10,2,5,14,Medium,Health,Medium,88,0,Introvert,Balanced,Poor,983
+2691,26,Female,Sad,Creativity burst,Lucid,8,Daily,9,Metal,53,66,3,2,1,1,Medium,Relationships,Medium,54,50,Introvert,Balanced,Good,990
+8243,41,Non-binary,Anxious,Creativity burst,Nightmare,4,Daily,8,Classical,82,23,10,9,5,4,Medium,Work,Medium,80,300,Ambivert,Right,Poor,378
+3676,52,Female,Excited,Work stress,Forgotten,10,Daily,5,Pop,28,53,5,3,1,3,Medium,Health,Low,28,100,Introvert,Right,Average,440
+7073,66,Non-binary,Anxious,Creativity burst,Forgotten,8,Weekly,3,Rock,79,25,10,6,9,6,Low,Health,High,26,300,Introvert,Left,Poor,427
+1080,52,Non-binary,Anxious,Focused mode,Nightmare,7,Never,10,Lo-fi,68,86,10,10,7,9,High,Social Media,Medium,74,100,Introvert,Right,Poor,778
+4587,65,Female,Sad,Random nostalgia,Lucid,10,Never,9,Pop,70,21,6,5,3,9,Medium,Health,High,86,50,Extrovert,Left,Poor,733
+6221,53,Non-binary,Angry,Random nostalgia,Lucid,9,Never,6,Lo-fi,79,64,2,4,9,7,Medium,Finance,Low,65,100,Ambivert,Balanced,Average,706
+4096,35,Female,Angry,Work stress,Nightmare,9,Never,5,Lo-fi,89,60,7,10,2,12,Low,Work,High,50,0,Extrovert,Left,Good,124
+1046,66,Non-binary,Excited,Existential crisis,Abstract,8,Never,3,Rock,56,48,3,2,7,9,Medium,Work,High,51,300,Ambivert,Balanced,Good,628
+7183,56,Male,Excited,Work stress,Forgotten,6,Never,6,Metal,50,42,1,8,9,8,Medium,Work,Medium,15,400,Ambivert,Right,Average,525
+2283,49,Female,Excited,Creativity burst,Abstract,10,Weekly,3,Classical,60,42,10,10,6,5,Low,Health,Medium,78,300,Extrovert,Right,Poor,128
+5383,41,Non-binary,Happy,Existential crisis,Lucid,5,Daily,10,Metal,81,38,3,7,10,9,Medium,Health,Low,84,50,Ambivert,Right,Poor,422
+8794,40,Non-binary,Anxious,Creativity burst,Lucid,10,Never,6,Pop,77,78,9,2,5,14,Medium,Work,High,82,400,Ambivert,Left,Poor,952
+6565,49,Male,Anxious,Focused mode,Abstract,6,Weekly,4,Metal,33,79,10,6,7,7,Low,Relationships,Low,49,300,Extrovert,Balanced,Good,412
+8046,54,Female,Anxious,Creativity burst,Nightmare,10,Never,2,Pop,55,40,6,8,6,5,High,Relationships,Low,50,-50,Introvert,Balanced,Good,683
+2232,29,Non-binary,Anxious,Focused mode,Abstract,8,Never,8,Pop,55,89,6,7,5,8,Medium,Finance,Low,18,500,Ambivert,Balanced,Average,369
+8447,66,Male,Excited,Focused mode,Abstract,6,Daily,4,Classical,98,40,4,1,2,7,Medium,Social Media,Medium,17,-50,Extrovert,Balanced,Average,861
+3797,30,Non-binary,Angry,Creativity burst,Forgotten,7,Daily,9,Rock,27,98,8,5,,9,High,Finance,Medium,53,50,Ambivert,Balanced,Good,394
+5824,40,Female,Angry,Creativity burst,Forgotten,4,Daily,7,Classical,45,55,5,2,7,10,Low,Work,High,67,500,Extrovert,Left,Poor,755
+4297,42,Non-binary,Happy,Focused mode,Abstract,6,Never,2,Metal,55,86,7,6,6,1,High,Work,High,76,200,Introvert,Balanced,Poor,885
+7800,52,Non-binary,Sad,Existential crisis,Abstract,10,Never,4,Pop,67,61,9,7,5,13,Medium,Work,High,22,0,Ambivert,Right,Poor,322
+7287,58,Non-binary,Anxious,Focused mode,Lucid,7,Never,5,Lo-fi,47,19,5,7,5,9,High,Social Media,Medium,28,-50,Introvert,Balanced,Poor,174
+8727,47,Non-binary,Anxious,Random nostalgia,Forgotten,4,Daily,3,Lo-fi,87,97,5,3,9,7,Low,Health,Medium,58,100,Introvert,Right,Average,201
+6162,34,Male,Sad,Focused mode,Forgotten,9,Weekly,9,Pop,81,83,4,7,1,1,Medium,Social Media,Low,89,500,Extrovert,Left,Average,631
+8759,66,Male,Happy,Existential crisis,Lucid,5,Never,5,Classical,99,50,6,5,9,1,Low,Finance,Medium,87,100,Ambivert,Left,Good,728
+8423,37,Female,Anxious,Random nostalgia,Nightmare,8,Never,2,Rock,95,86,2,8,6,5,Low,Health,Low,39,100,Ambivert,Right,Average,785
+1577,65,Male,Happy,Work stress,Forgotten,10,Never,3,Classical,99,12,3,8,4,8,High,Health,Low,75,200,Ambivert,Balanced,Poor,984
+8467,42,Male,Happy,Work stress,Forgotten,10,Weekly,9,Pop,70,68,1,7,10,9,High,Finance,Medium,86,0,Ambivert,Left,Good,272
+6569,39,Female,Happy,Existential crisis,Nightmare,9,Never,7,Pop,61,61,2,6,7,12,Low,Health,Low,68,300,Ambivert,Left,Average,103
+5574,30,Male,Happy,Focused mode,Forgotten,5,Weekly,2,Rock,48,43,2,2,9,6,Low,Relationships,Low,62,500,Extrovert,Left,Average,951
+6137,36,Male,Happy,Creativity burst,Forgotten,9,Never,9,Metal,29,58,8,6,5,12,Medium,Finance,High,61,300,Ambivert,Balanced,Average,578
+7740,66,Female,Sad,Existential crisis,Nightmare,3,Weekly,4,Metal,58,37,8,9,5,13,Low,Finance,Low,90,-50,Introvert,Right,Average,759
+9090,53,Female,Angry,Random nostalgia,Nightmare,9,Never,9,Rock,20,92,2,2,8,10,Low,Relationships,Medium,40,0,Introvert,Right,Average,494
+5183,29,Female,Excited,Random nostalgia,Abstract,7,Daily,2,Metal,58,96,6,1,7,12,High,Social Media,Medium,24,400,Ambivert,Balanced,Poor,725
+7809,58,Non-binary,Angry,Work stress,Lucid,4,Daily,10,Lo-fi,40,22,5,5,8,8,Low,Social Media,Low,29,0,Extrovert,Left,Poor,932
+8727,36,Non-binary,Anxious,Random nostalgia,Lucid,10,Daily,4,Metal,84,78,3,6,10,6,Low,Social Media,High,14,100,Extrovert,Balanced,Poor,266
+2788,29,Female,Happy,Existential crisis,Nightmare,9,Daily,5,Metal,34,76,5,3,2,11,High,Health,Medium,16,300,Ambivert,Balanced,Average,399
+6459,26,Female,Sad,Random nostalgia,Nightmare,10,Never,2,Metal,23,70,5,8,9,6,Medium,Relationships,Medium,27,0,Introvert,Right,Good,217
+4817,24,Female,Anxious,Existential crisis,Forgotten,6,Daily,10,Lo-fi,79,69,5,7,3,4,High,Finance,High,65,300,Ambivert,Balanced,Poor,611
+5812,45,Non-binary,Happy,Creativity burst,Abstract,5,Weekly,1,Metal,80,80,3,2,6,11,High,Finance,Low,84,0,Ambivert,Balanced,Poor,711
+5753,31,Non-binary,Angry,Work stress,Abstract,9,Daily,7,Lo-fi,39,33,3,7,,5,Low,Finance,Medium,54,50,Ambivert,Left,Average,885
+3056,48,Male,Angry,Random nostalgia,Nightmare,4,Daily,10,Rock,29,72,4,1,2,14,Low,Health,Low,37,-50,Extrovert,Left,Good,274
+8469,69,Male,Anxious,Existential crisis,Forgotten,7,Daily,1,Classical,53,95,7,9,7,2,Medium,Health,Low,59,500,Extrovert,Right,Poor,258
+4737,36,Female,Happy,Focused mode,Forgotten,3,Never,8,Rock,67,70,2,7,9,3,Low,Social Media,Low,11,100,Introvert,Left,Poor,483
+5671,64,Non-binary,Sad,Work stress,Lucid,10,Daily,3,Classical,52,32,10,6,10,3,Medium,Health,Low,77,0,Introvert,Balanced,Good,326
+2486,33,Non-binary,Anxious,Creativity burst,Lucid,5,Weekly,10,Rock,80,39,4,2,1,14,Medium,Social Media,Medium,86,200,Ambivert,Balanced,Average,137
+8252,22,Non-binary,Happy,Existential crisis,Forgotten,8,Daily,6,Classical,29,69,4,3,8,12,Medium,Social Media,High,33,0,Introvert,Balanced,Good,562
+8133,52,Female,Anxious,Creativity burst,Lucid,4,Daily,7,Classical,73,27,1,1,2,11,Medium,Finance,Medium,57,50,Ambivert,Right,Average,530
+6668,29,Male,Anxious,Creativity burst,Nightmare,8,Daily,10,Pop,84,65,10,10,1,5,Low,Health,High,54,-50,Introvert,Left,Poor,809
+6212,42,Female,,Random nostalgia,Forgotten,4,Weekly,1,Classical,96,62,8,5,8,14,High,Social Media,Low,67,200,Ambivert,Balanced,Good,747
+6164,69,Male,Sad,Random nostalgia,Lucid,4,Daily,6,Classical,20,16,1,9,2,5,High,Relationships,High,45,200,Extrovert,Left,Good,203
+3641,38,Male,Excited,Existential crisis,Abstract,7,Weekly,7,Pop,24,78,8,6,6,6,Low,Relationships,Low,11,-50,Ambivert,Left,Poor,292
+3355,53,Female,Angry,Focused mode,Forgotten,7,Weekly,6,Metal,99,81,7,5,6,5,Low,Health,Medium,27,0,Extrovert,Left,Poor,349
+9013,40,Male,Sad,Existential crisis,Forgotten,7,Daily,4,Metal,34,88,9,3,5,12,Medium,Finance,Medium,58,50,Extrovert,Left,Average,112
+1798,33,Male,Happy,Focused mode,Abstract,9,Weekly,1,Pop,47,61,8,5,8,6,Low,Finance,High,17,200,Introvert,Right,Poor,666
+5596,56,Non-binary,Anxious,Creativity burst,Nightmare,6,Never,9,Lo-fi,42,13,5,8,3,8,High,Social Media,Low,67,500,Introvert,Right,Poor,955
+8632,62,Male,Sad,Work stress,Abstract,4,Daily,4,Classical,36,43,8,2,10,2,Low,Health,Low,24,100,Extrovert,Right,Good,696
+3194,59,Female,Sad,Existential crisis,Forgotten,5,Daily,7,Classical,32,78,10,5,4,4,Low,Relationships,High,26,400,Ambivert,Balanced,Average,720
+9888,56,Female,Happy,Existential crisis,Nightmare,8,Weekly,7,Pop,33,42,3,6,7,13,Medium,Social Media,Low,32,100,Ambivert,Balanced,Poor,654
+2759,31,Male,Excited,Focused mode,Lucid,7,Weekly,2,Pop,30,78,10,10,7,6,Medium,Social Media,Low,75,300,Introvert,Balanced,Good,487
+5349,48,Non-binary,Anxious,Creativity burst,Lucid,9,Daily,1,Lo-fi,47,47,7,8,8,12,Medium,Work,Low,79,300,Ambivert,Right,Poor,170
+9601,22,Non-binary,Anxious,Creativity burst,Lucid,7,Never,8,Metal,61,35,4,8,,5,Medium,Health,Medium,36,50,Ambivert,Left,Poor,879
+7825,52,Male,Sad,Focused mode,Forgotten,8,Weekly,8,Rock,80,10,5,5,2,1,High,Social Media,Medium,46,200,Ambivert,Right,Poor,670
+5189,40,Male,Happy,Creativity burst,Abstract,8,Weekly,7,Metal,83,13,9,9,4,9,Low,Relationships,Medium,58,100,Extrovert,Balanced,Poor,537
+8998,46,Female,Anxious,Random nostalgia,Nightmare,10,Never,8,Classical,50,48,7,4,,3,Low,Work,Low,73,100,Extrovert,Balanced,Average,143
+2521,60,Male,Angry,Work stress,Lucid,4,Never,3,Pop,100,63,4,9,9,2,Medium,Relationships,Medium,43,400,Ambivert,Left,Good,371
+2748,28,Non-binary,Happy,Existential crisis,Nightmare,7,Daily,2,Lo-fi,92,99,6,7,10,9,High,Finance,Low,27,50,Introvert,Right,Good,113
+3974,35,Male,Anxious,Work stress,Forgotten,8,Never,7,Metal,29,42,10,6,9,7,High,Work,Low,73,500,Ambivert,Left,Poor,470
+7278,64,Female,,Existential crisis,Lucid,6,Daily,8,Lo-fi,27,42,7,4,4,5,Low,Work,High,83,200,Introvert,Right,Good,211
+1405,29,Female,Anxious,Random nostalgia,Forgotten,6,Never,1,Metal,40,81,10,2,9,12,Medium,Social Media,Low,53,50,Extrovert,Balanced,Poor,478
+2699,26,Female,Anxious,Creativity burst,Abstract,7,Weekly,10,Classical,96,29,9,8,3,6,Low,Finance,Medium,26,0,Ambivert,Left,Good,413
+3860,27,Female,,Focused mode,Forgotten,9,Daily,9,Rock,78,25,4,6,5,12,Low,Social Media,Medium,68,100,Ambivert,Left,Average,514
+6692,61,Female,Sad,Random nostalgia,Forgotten,8,Daily,4,Lo-fi,69,30,10,3,10,11,High,Health,Low,22,50,Introvert,Right,Average,839
+5047,34,Male,Angry,Work stress,Abstract,10,Daily,4,Lo-fi,88,54,3,7,9,4,High,Relationships,Medium,61,50,Introvert,Right,Good,584
+3101,55,Male,,Focused mode,Nightmare,4,Never,3,Rock,89,99,8,10,6,1,Low,Relationships,Low,69,400,Ambivert,Right,Poor,268
+4023,24,Male,Happy,Creativity burst,Abstract,4,Weekly,6,Lo-fi,49,96,1,7,3,4,Medium,Social Media,High,51,500,Ambivert,Balanced,Poor,987
+7551,63,Male,Anxious,Random nostalgia,Abstract,9,Daily,1,Lo-fi,36,91,9,6,10,9,Medium,Relationships,Low,73,0,Introvert,Right,Poor,902
+5614,30,Female,Angry,Focused mode,Forgotten,10,Daily,6,Metal,94,71,1,2,9,1,Low,Relationships,Low,75,300,Extrovert,Balanced,Poor,345
+4405,57,Non-binary,Angry,Random nostalgia,Nightmare,4,Daily,2,Metal,39,40,2,8,6,10,Low,Health,High,43,100,Introvert,Right,Average,365
+2904,59,Male,Anxious,Random nostalgia,Lucid,10,Daily,9,Rock,67,51,8,1,4,3,Medium,Finance,Medium,80,400,Ambivert,Right,Poor,948
+5638,26,Non-binary,,Creativity burst,Abstract,3,Weekly,2,Classical,92,21,9,1,,5,Medium,Work,High,73,500,Extrovert,Balanced,Poor,342
+8742,67,Male,Anxious,Existential crisis,Nightmare,7,Never,7,Lo-fi,21,74,7,6,8,7,Medium,Social Media,High,42,500,Extrovert,Right,Poor,769
+3015,44,Male,Happy,Focused mode,Abstract,4,Weekly,1,Classical,56,82,3,5,,9,Low,Social Media,Low,21,50,Extrovert,Balanced,Poor,399
+4533,19,Non-binary,Excited,Creativity burst,Abstract,6,Daily,7,Rock,20,12,7,9,1,6,High,Health,Low,85,100,Extrovert,Balanced,Average,426
+3064,22,Female,Sad,Random nostalgia,Abstract,8,Weekly,5,Rock,23,99,6,7,6,3,Medium,Health,High,28,-50,Ambivert,Right,Good,629
+1343,46,Male,Sad,Creativity burst,Abstract,10,Daily,8,Metal,73,18,2,2,8,13,Medium,Work,Medium,18,300,Extrovert,Right,Good,694
+4502,54,Male,Angry,Existential crisis,Forgotten,10,Never,4,Lo-fi,44,60,3,7,3,7,Medium,Finance,High,83,-50,Introvert,Left,Poor,946
+2548,55,Male,Angry,Focused mode,Nightmare,5,Never,10,Pop,22,25,10,3,9,14,Low,Social Media,Medium,26,-50,Introvert,Right,Poor,842
+9257,36,Non-binary,Angry,Existential crisis,Nightmare,9,Never,7,Rock,28,97,10,1,10,4,High,Health,High,59,-50,Introvert,Left,Good,441
+7487,25,Female,,Work stress,Nightmare,5,Daily,6,Lo-fi,95,87,5,8,2,3,High,Social Media,High,48,500,Ambivert,Right,Average,864
+6496,65,Non-binary,Anxious,Focused mode,Abstract,4,Weekly,5,Classical,93,12,10,3,6,14,Medium,Relationships,Medium,50,50,Extrovert,Balanced,Average,778
+9880,62,Non-binary,Anxious,Existential crisis,Forgotten,5,Never,4,Metal,53,33,4,8,1,7,Low,Social Media,High,19,500,Introvert,Balanced,Average,653
+7712,18,Female,Happy,Random nostalgia,Abstract,5,Daily,7,Classical,62,82,2,7,2,11,High,Finance,Low,21,0,Introvert,Left,Average,348
+8182,39,Non-binary,,Focused mode,Abstract,3,Daily,5,Rock,93,22,4,2,5,11,Low,Finance,High,88,500,Introvert,Right,Average,859
+9474,69,Female,,Focused mode,Nightmare,10,Weekly,5,Rock,41,11,8,1,1,7,High,Social Media,Low,24,100,Extrovert,Left,Average,479
+1261,34,Male,Anxious,Creativity burst,Abstract,6,Never,1,Classical,89,80,5,7,8,4,Medium,Relationships,Medium,37,500,Introvert,Right,Average,897
+2098,24,Female,Happy,Random nostalgia,Lucid,9,Daily,2,Rock,21,30,5,1,1,12,Low,Finance,Medium,13,500,Extrovert,Right,Average,631
+6001,42,Male,Happy,Work stress,Abstract,6,Weekly,5,Lo-fi,85,28,10,6,9,7,Medium,Health,Low,45,-50,Extrovert,Balanced,Average,993
+4711,62,Non-binary,Sad,Existential crisis,Lucid,3,Never,3,Rock,51,98,3,10,10,11,High,Social Media,High,74,400,Extrovert,Left,Poor,963
+1728,21,Non-binary,Happy,Creativity burst,Abstract,3,Weekly,2,Metal,35,56,8,10,3,14,High,Relationships,Low,56,0,Ambivert,Balanced,Average,480
+8695,53,Male,Sad,Existential crisis,Forgotten,5,Weekly,4,Lo-fi,95,31,6,8,2,2,Medium,Health,Low,90,300,Ambivert,Balanced,Poor,141
+1491,23,Non-binary,,Work stress,Forgotten,7,Daily,4,Pop,20,84,2,7,1,1,High,Social Media,Medium,48,300,Extrovert,Balanced,Good,444
+9413,48,Female,Angry,Work stress,Nightmare,10,Daily,4,Rock,91,42,2,4,9,12,Medium,Relationships,Low,47,100,Extrovert,Left,Poor,698
+8812,36,Male,Happy,Focused mode,Abstract,8,Daily,4,Rock,67,41,9,1,4,2,Medium,Health,High,53,300,Ambivert,Right,Good,360
+7090,61,Non-binary,Sad,Work stress,Lucid,10,Weekly,3,Metal,69,73,7,1,1,4,Medium,Finance,Low,60,200,Ambivert,Right,Poor,405
+4974,56,Male,Happy,Existential crisis,Lucid,8,Daily,7,Metal,32,94,10,4,1,8,High,Social Media,Medium,35,400,Extrovert,Left,Good,908
+9965,44,Female,Happy,Random nostalgia,Abstract,5,Weekly,9,Classical,34,48,9,5,7,3,Low,Social Media,High,45,100,Ambivert,Right,Poor,961
+6219,27,Female,Sad,Random nostalgia,Lucid,8,Weekly,5,Classical,72,93,6,7,2,10,Medium,Finance,Medium,78,500,Introvert,Left,Poor,339
+1671,43,Non-binary,Sad,Focused mode,Forgotten,3,Daily,4,Classical,63,81,5,4,7,6,Low,Work,Low,10,200,Extrovert,Left,Good,778
+9633,36,Female,Anxious,Existential crisis,Lucid,6,Never,2,Metal,27,51,1,10,7,6,High,Health,Low,62,300,Extrovert,Right,Average,412
+6530,56,Male,,Existential crisis,Nightmare,8,Never,2,Classical,93,18,6,1,10,13,High,Finance,Medium,15,500,Ambivert,Balanced,Average,830
+4187,20,Female,Sad,Work stress,Forgotten,10,Never,5,Classical,65,34,6,10,9,9,Low,Social Media,Medium,46,100,Introvert,Left,Average,540
+8909,62,Male,Angry,Existential crisis,Forgotten,9,Weekly,7,Pop,88,98,3,7,7,9,Medium,Health,High,11,-50,Ambivert,Left,Average,232
+8390,30,Male,Excited,Creativity burst,Forgotten,5,Weekly,10,Classical,38,11,3,2,1,4,High,Health,Medium,78,200,Introvert,Left,Average,818
+2955,67,Female,Sad,Work stress,Abstract,7,Weekly,10,Rock,57,28,3,2,8,9,Medium,Work,Medium,50,300,Introvert,Left,Poor,150
+4496,45,Non-binary,Happy,Creativity burst,Abstract,5,Daily,9,Metal,30,29,3,8,8,13,Medium,Social Media,Low,60,50,Extrovert,Right,Average,717
+3111,37,Female,Excited,Focused mode,Forgotten,4,Weekly,7,Lo-fi,62,79,7,10,4,6,Low,Relationships,Low,56,50,Introvert,Right,Poor,491
+8776,45,Male,Happy,Random nostalgia,Abstract,5,Daily,5,Pop,39,26,10,10,,2,High,Work,Medium,22,0,Extrovert,Left,Good,795
+6000,25,Male,Anxious,Focused mode,Lucid,3,Daily,10,Metal,39,98,2,10,4,10,Low,Work,Medium,85,50,Introvert,Balanced,Average,812
+5390,58,Female,Angry,Random nostalgia,Abstract,6,Never,10,Metal,40,77,10,5,8,14,High,Relationships,Low,78,-50,Extrovert,Right,Average,622
+6257,56,Non-binary,Sad,Focused mode,Abstract,6,Never,10,Rock,76,93,10,10,5,11,Low,Relationships,High,75,200,Introvert,Balanced,Average,865
+1837,18,Non-binary,Sad,Existential crisis,Forgotten,9,Never,6,Classical,69,12,2,2,4,6,High,Work,High,68,-50,Ambivert,Balanced,Average,607
+1252,20,Male,Anxious,Creativity burst,Nightmare,8,Daily,3,Rock,93,96,3,5,6,2,High,Health,High,77,400,Introvert,Left,Poor,761
+3956,30,Male,Happy,Random nostalgia,Nightmare,3,Daily,5,Classical,45,60,10,8,2,8,High,Finance,High,68,50,Ambivert,Right,Poor,453
+7516,45,Non-binary,Sad,Work stress,Nightmare,4,Daily,8,Classical,49,91,7,6,2,4,Medium,Finance,Low,19,100,Introvert,Left,Poor,966
+8643,66,Female,Anxious,Creativity burst,Lucid,3,Weekly,1,Metal,92,35,3,3,2,5,Medium,Work,Medium,22,100,Introvert,Left,Good,494
+3572,42,Male,Angry,Work stress,Abstract,5,Daily,1,Classical,50,65,7,8,9,8,Low,Health,High,11,100,Extrovert,Balanced,Poor,195
+4176,50,Male,Happy,Creativity burst,Nightmare,3,Never,7,Pop,61,73,9,9,10,14,Low,Relationships,Low,24,50,Introvert,Balanced,Average,205
+3026,55,Non-binary,Excited,Creativity burst,Forgotten,3,Never,5,Pop,87,17,10,5,3,11,High,Work,Medium,55,500,Introvert,Balanced,Good,754
+5020,23,Female,Sad,Focused mode,Nightmare,9,Daily,5,Pop,80,90,4,2,10,8,High,Social Media,High,66,-50,Introvert,Left,Good,777
+8369,61,Non-binary,Excited,Random nostalgia,Nightmare,4,Daily,1,Metal,80,46,7,2,4,12,Medium,Health,Medium,19,50,Ambivert,Left,Average,612
+6087,62,Female,Anxious,Random nostalgia,Abstract,5,Never,9,Rock,89,36,9,7,10,14,Medium,Social Media,High,31,0,Extrovert,Left,Average,657
+1372,49,Female,Anxious,Creativity burst,Abstract,7,Daily,1,Lo-fi,97,54,8,1,8,12,Medium,Social Media,Medium,88,400,Extrovert,Left,Average,341
+1975,62,Female,Angry,Existential crisis,Abstract,9,Never,5,Classical,87,13,8,10,4,6,Low,Work,High,86,500,Introvert,Left,Average,955
+5981,64,Male,,Existential crisis,Lucid,7,Weekly,10,Lo-fi,36,95,9,2,10,4,Medium,Health,High,17,400,Introvert,Left,Poor,587
+3344,38,Non-binary,Happy,Work stress,Lucid,9,Never,9,Rock,38,99,5,10,10,1,Low,Social Media,Medium,30,500,Ambivert,Left,Good,889
+2860,33,Non-binary,Anxious,Work stress,Nightmare,6,Weekly,4,Rock,70,97,5,4,7,12,Medium,Health,Medium,31,500,Introvert,Left,Average,614
+4574,38,Female,Happy,Focused mode,Abstract,10,Daily,8,Metal,89,46,3,1,5,7,Medium,Finance,Medium,54,300,Extrovert,Right,Poor,753
+6392,28,Male,Sad,Creativity burst,Nightmare,9,Daily,6,Pop,82,80,5,4,9,8,High,Social Media,Low,49,0,Extrovert,Right,Average,997
+7407,54,Male,Sad,Work stress,Forgotten,8,Weekly,3,Pop,94,42,8,10,,9,Low,Social Media,Low,31,200,Ambivert,Right,Poor,160
+8532,53,Non-binary,,Work stress,Forgotten,3,Daily,4,Rock,99,40,5,5,3,2,Medium,Health,Medium,39,100,Ambivert,Right,Average,515
+8604,52,Male,,Creativity burst,Abstract,6,Weekly,2,Metal,49,64,4,9,2,1,High,Finance,Low,71,50,Extrovert,Left,Average,393
+9261,36,Male,Happy,Focused mode,Abstract,4,Daily,1,Metal,44,21,8,1,1,4,Low,Social Media,High,82,300,Ambivert,Left,Average,836
+2531,37,Female,Happy,Work stress,Forgotten,7,Never,8,Classical,94,20,7,5,6,13,Low,Work,Medium,54,300,Introvert,Balanced,Poor,401
+7002,35,Male,Anxious,Focused mode,Abstract,10,Daily,1,Pop,90,97,6,2,10,5,Medium,Health,Low,44,500,Introvert,Balanced,Average,269
+6620,64,Female,Angry,Random nostalgia,Lucid,10,Never,1,Rock,45,81,5,9,2,10,Low,Health,Medium,51,50,Ambivert,Right,Poor,745
+9752,58,Non-binary,Happy,Focused mode,Lucid,9,Never,4,Lo-fi,75,41,5,6,8,12,High,Social Media,High,14,0,Extrovert,Balanced,Poor,140
+6756,66,Male,Anxious,Existential crisis,Abstract,3,Weekly,10,Pop,41,66,10,2,6,1,High,Finance,High,36,300,Ambivert,Right,Good,330
+5987,31,Non-binary,Angry,Existential crisis,Forgotten,4,Daily,10,Classical,38,47,2,3,5,5,Low,Social Media,Low,79,400,Extrovert,Left,Poor,508
+1264,32,Non-binary,,Focused mode,Nightmare,8,Weekly,6,Metal,50,69,4,8,2,6,High,Relationships,High,71,0,Ambivert,Left,Poor,837
+2395,48,Male,Sad,Existential crisis,Abstract,4,Daily,9,Rock,45,95,8,1,7,3,Low,Social Media,Medium,41,50,Ambivert,Balanced,Poor,750
+1999,18,Male,Angry,Random nostalgia,Abstract,3,Never,1,Pop,61,28,8,3,2,12,High,Relationships,Low,17,500,Ambivert,Left,Poor,721
+5794,20,Non-binary,Angry,Creativity burst,Nightmare,8,Never,7,Lo-fi,60,93,1,10,5,7,Low,Work,Medium,27,0,Introvert,Left,Poor,396
+8244,33,Male,Anxious,Existential crisis,Abstract,4,Daily,10,Classical,42,65,2,1,2,14,Low,Health,Medium,87,500,Introvert,Right,Good,554
+6780,40,Female,Angry,Existential crisis,Nightmare,8,Daily,5,Classical,66,23,5,8,10,6,Low,Health,Medium,24,400,Extrovert,Balanced,Average,156
+1731,28,Female,Anxious,Focused mode,Forgotten,9,Weekly,8,Pop,32,42,9,1,2,4,High,Finance,High,35,100,Ambivert,Left,Good,734
+9874,29,Male,Sad,Random nostalgia,Lucid,9,Daily,7,Lo-fi,85,19,10,5,7,3,Low,Social Media,Medium,62,500,Introvert,Balanced,Good,339
+3353,27,Non-binary,Excited,Creativity burst,Forgotten,3,Daily,4,Classical,85,89,7,4,9,5,Low,Work,High,53,500,Ambivert,Left,Average,697
+4347,49,Male,Angry,Focused mode,Lucid,3,Daily,4,Rock,35,73,10,7,5,3,Medium,Relationships,Medium,41,-50,Extrovert,Right,Poor,275
+1011,33,Male,Happy,Focused mode,Nightmare,8,Weekly,6,Classical,92,73,5,5,7,10,Medium,Finance,High,37,50,Introvert,Left,Average,162
+8635,25,Non-binary,Anxious,Random nostalgia,Lucid,5,Daily,6,Lo-fi,47,71,1,8,4,9,Low,Work,High,48,400,Extrovert,Balanced,Poor,650
+3453,55,Non-binary,Sad,Creativity burst,Forgotten,6,Never,9,Metal,96,77,6,1,2,9,Medium,Work,High,41,50,Introvert,Balanced,Average,237
+5297,29,Female,Happy,Random nostalgia,Lucid,10,Weekly,5,Metal,54,100,8,5,3,6,Low,Relationships,Medium,86,400,Ambivert,Right,Good,553
+1480,41,Non-binary,Excited,Creativity burst,Nightmare,4,Weekly,8,Pop,60,52,7,4,2,13,Medium,Relationships,Medium,88,400,Extrovert,Left,Poor,852
+8714,45,Female,Angry,Random nostalgia,Lucid,4,Never,5,Lo-fi,96,89,2,3,5,11,High,Health,High,27,300,Introvert,Right,Good,548
+6246,25,Non-binary,Anxious,Focused mode,Abstract,5,Never,2,Classical,50,68,5,5,6,6,High,Social Media,Medium,79,300,Introvert,Balanced,Poor,325
+6386,45,Male,Sad,Focused mode,Forgotten,5,Never,6,Classical,51,61,4,10,7,12,Low,Finance,High,20,300,Ambivert,Right,Average,542
+8029,53,Female,Anxious,Work stress,Abstract,5,Daily,9,Metal,73,28,9,3,3,14,Low,Social Media,Medium,41,100,Extrovert,Left,Average,305
+9217,43,Female,Happy,Existential crisis,Nightmare,7,Never,3,Metal,91,30,10,8,4,4,High,Finance,High,29,100,Extrovert,Left,Average,775
+1973,25,Female,Sad,Random nostalgia,Lucid,7,Daily,1,Rock,78,31,1,3,8,4,High,Work,High,49,400,Extrovert,Right,Average,126
+2378,67,Male,,Work stress,Abstract,8,Weekly,1,Metal,60,18,6,1,4,2,Medium,Relationships,Low,17,200,Ambivert,Balanced,Average,556
+1803,45,Male,Anxious,Existential crisis,Abstract,7,Weekly,3,Rock,85,18,3,9,7,10,Low,Relationships,Medium,44,50,Introvert,Balanced,Good,794
+4288,45,Male,Angry,Random nostalgia,Lucid,9,Never,10,Classical,73,82,9,9,6,4,High,Work,Medium,78,300,Introvert,Right,Good,809
+2084,54,Male,Sad,Creativity burst,Lucid,9,Daily,5,Rock,59,36,5,6,7,8,High,Work,Low,87,50,Extrovert,Left,Poor,948
+7734,58,Male,Excited,Existential crisis,Forgotten,3,Never,3,Rock,47,26,6,10,1,13,Low,Finance,High,30,500,Introvert,Left,Good,206
+7805,53,Female,Angry,Focused mode,Abstract,10,Never,9,Pop,56,53,9,1,3,10,Medium,Work,High,33,400,Extrovert,Left,Poor,543
+9159,44,Male,Anxious,Work stress,Abstract,8,Daily,8,Metal,84,54,9,8,6,2,Medium,Finance,Low,26,0,Ambivert,Left,Poor,800
+6491,34,Female,Anxious,Existential crisis,Nightmare,10,Never,3,Rock,93,17,8,2,3,9,Medium,Social Media,Low,27,400,Ambivert,Balanced,Good,135
+8010,26,Male,Happy,Existential crisis,Forgotten,4,Weekly,9,Classical,74,89,9,9,7,14,Medium,Relationships,High,21,100,Ambivert,Left,Good,696
+9820,50,Non-binary,Happy,Focused mode,Nightmare,6,Never,6,Lo-fi,23,27,4,8,9,1,High,Relationships,Medium,25,200,Extrovert,Right,Poor,254
+3906,37,Female,Anxious,Random nostalgia,Abstract,3,Daily,7,Rock,29,42,6,3,3,13,Low,Relationships,Low,13,0,Introvert,Right,Good,268
+8584,30,Non-binary,Happy,Creativity burst,Nightmare,4,Daily,4,Metal,66,10,5,5,1,2,Low,Social Media,Low,43,50,Ambivert,Right,Good,895
+6736,45,Female,Sad,Focused mode,Abstract,4,Weekly,4,Pop,94,85,5,9,10,2,High,Social Media,Low,55,100,Extrovert,Right,Good,371
+6157,65,Non-binary,,Creativity burst,Abstract,8,Daily,2,Classical,33,15,4,1,,11,High,Health,Low,84,300,Extrovert,Left,Average,646
+2018,46,Male,Angry,Random nostalgia,Nightmare,5,Daily,5,Pop,57,50,2,9,1,13,High,Finance,Low,86,0,Ambivert,Balanced,Average,519
+1071,30,Male,Anxious,Existential crisis,Nightmare,5,Weekly,8,Lo-fi,31,64,6,4,1,14,Low,Finance,Low,40,100,Ambivert,Left,Poor,283
+6909,63,Male,Angry,Creativity burst,Lucid,10,Never,7,Rock,64,14,9,4,,6,Low,Health,High,34,50,Ambivert,Balanced,Good,710
+8267,52,Female,Angry,Work stress,Lucid,3,Weekly,7,Rock,36,68,1,4,9,14,Low,Relationships,High,83,400,Introvert,Left,Poor,336
+7525,23,Non-binary,Happy,Work stress,Lucid,5,Never,6,Metal,99,89,7,10,2,7,Medium,Finance,Low,33,50,Introvert,Balanced,Good,608
+7407,35,Male,Sad,Focused mode,Abstract,4,Weekly,3,Rock,54,27,6,9,9,13,High,Finance,High,74,0,Extrovert,Right,Average,540
+6765,68,Non-binary,Sad,Random nostalgia,Nightmare,5,Never,5,Classical,85,58,3,6,5,3,High,Relationships,Medium,34,-50,Ambivert,Right,Good,221
+1600,22,Non-binary,Sad,Focused mode,Forgotten,7,Weekly,1,Lo-fi,94,91,1,8,8,11,High,Work,Medium,37,0,Ambivert,Balanced,Good,516
+8599,64,Male,Anxious,Focused mode,Abstract,5,Never,7,Pop,60,74,4,4,7,9,Low,Work,Low,45,400,Introvert,Balanced,Good,634
+8211,42,Male,Sad,Focused mode,Forgotten,4,Weekly,9,Lo-fi,86,92,9,3,7,5,High,Health,Medium,15,0,Ambivert,Balanced,Average,474
+5806,19,Non-binary,Angry,Work stress,Nightmare,10,Never,1,Rock,48,63,2,1,4,5,High,Social Media,Medium,75,200,Extrovert,Right,Average,674
+4189,27,Male,Sad,Work stress,Abstract,8,Weekly,2,Pop,37,70,3,10,2,11,Medium,Finance,High,76,300,Ambivert,Right,Average,425
+2073,47,Male,Happy,Focused mode,Forgotten,3,Daily,3,Metal,39,17,2,7,5,12,Low,Finance,High,81,100,Introvert,Left,Poor,579
+3734,67,Male,Angry,Work stress,Forgotten,6,Never,3,Lo-fi,33,12,2,4,3,4,High,Health,High,57,400,Extrovert,Balanced,Good,249
+6374,62,Female,Happy,Random nostalgia,Lucid,5,Weekly,8,Pop,53,34,10,8,9,9,Low,Health,High,79,50,Extrovert,Balanced,Average,806
+5066,22,Non-binary,Happy,Focused mode,Lucid,9,Never,7,Pop,68,78,8,3,6,8,Low,Finance,Medium,87,50,Ambivert,Balanced,Poor,691
+5606,50,Non-binary,Happy,Work stress,Lucid,9,Never,6,Pop,73,64,3,1,1,12,Low,Relationships,Low,76,300,Extrovert,Right,Average,589
+5055,18,Female,Sad,Creativity burst,Abstract,10,Weekly,10,Classical,50,49,7,5,3,4,Medium,Relationships,High,57,0,Ambivert,Balanced,Good,926
+6559,35,Non-binary,Anxious,Focused mode,Nightmare,4,Never,10,Lo-fi,77,92,8,2,4,4,Low,Social Media,Medium,74,0,Ambivert,Balanced,Poor,252
+1831,49,Male,Sad,Focused mode,Nightmare,6,Weekly,4,Pop,61,91,3,3,9,2,Low,Finance,High,53,50,Introvert,Right,Average,116
+6266,64,Non-binary,Sad,Random nostalgia,Lucid,6,Daily,9,Lo-fi,77,59,2,6,6,9,Low,Finance,Medium,72,300,Extrovert,Balanced,Average,650
+7406,66,Male,Anxious,Existential crisis,Lucid,7,Never,1,Pop,49,42,8,3,4,3,High,Finance,High,55,50,Ambivert,Left,Poor,944
+4284,28,Female,Happy,Existential crisis,Lucid,6,Daily,2,Metal,44,27,3,3,1,4,Medium,Finance,Low,28,0,Ambivert,Right,Poor,447
+3066,38,Male,Excited,Random nostalgia,Forgotten,9,Never,4,Metal,82,66,7,6,8,14,High,Health,High,73,400,Ambivert,Right,Poor,558
+4913,43,Non-binary,Angry,Random nostalgia,Lucid,8,Never,3,Metal,38,25,1,5,2,7,Medium,Work,Low,82,100,Extrovert,Right,Poor,301
+8101,42,Non-binary,Angry,Random nostalgia,Forgotten,4,Never,1,Rock,91,89,6,10,8,10,Medium,Finance,High,80,0,Extrovert,Left,Poor,522
+7369,39,Non-binary,Angry,Existential crisis,Nightmare,4,Weekly,5,Pop,27,47,9,9,,8,Low,Work,High,59,400,Extrovert,Right,Average,379
+6424,44,Female,Happy,Random nostalgia,Abstract,5,Daily,7,Rock,22,50,3,1,8,8,Low,Relationships,High,72,100,Ambivert,Right,Poor,521
+8373,66,Female,Anxious,Work stress,Abstract,5,Never,2,Lo-fi,86,16,7,3,6,4,High,Social Media,Medium,50,500,Extrovert,Right,Poor,699
+6715,30,Non-binary,Sad,Focused mode,Abstract,5,Weekly,5,Rock,100,87,6,3,5,7,Medium,Relationships,Medium,16,200,Ambivert,Right,Good,564
+9830,50,Male,Excited,Focused mode,Abstract,9,Never,6,Lo-fi,36,62,8,6,5,10,Low,Finance,Low,18,300,Extrovert,Left,Average,911
+6553,51,Female,Happy,Creativity burst,Forgotten,9,Weekly,7,Lo-fi,33,72,3,8,10,1,Low,Relationships,Low,13,400,Extrovert,Balanced,Good,903
+9578,58,Non-binary,Angry,Creativity burst,Forgotten,10,Never,1,Lo-fi,28,98,3,3,10,6,Low,Health,Medium,58,200,Ambivert,Balanced,Average,454
+7756,52,Non-binary,Angry,Focused mode,Lucid,9,Daily,7,Rock,81,41,4,3,8,6,Low,Work,Low,85,0,Extrovert,Right,Average,681
+7172,18,Female,Happy,Work stress,Forgotten,9,Daily,4,Pop,40,47,3,6,7,6,High,Finance,Low,15,500,Ambivert,Left,Average,477
+2156,38,Female,Sad,Existential crisis,Lucid,9,Never,8,Rock,95,31,9,8,8,12,High,Health,Medium,30,300,Extrovert,Right,Poor,223
+9069,65,Female,Anxious,Existential crisis,Lucid,9,Weekly,4,Pop,56,25,4,6,8,2,Low,Work,Medium,24,400,Extrovert,Balanced,Good,179
+8993,23,Male,Excited,Work stress,Abstract,8,Never,6,Pop,30,61,6,10,7,8,Low,Health,Medium,76,500,Extrovert,Balanced,Average,656
+9871,45,Male,Sad,Existential crisis,Forgotten,9,Weekly,9,Lo-fi,39,38,8,3,2,14,Low,Relationships,Medium,75,-50,Extrovert,Left,Average,332
+8802,34,Non-binary,Anxious,Random nostalgia,Forgotten,10,Never,5,Rock,54,25,8,4,9,5,Low,Finance,High,65,0,Introvert,Balanced,Average,579
+2999,22,Female,,Focused mode,Lucid,6,Weekly,4,Pop,72,85,5,1,7,5,Low,Relationships,Medium,77,300,Ambivert,Right,Good,253
+9582,48,Male,Excited,Focused mode,Lucid,6,Daily,8,Metal,66,26,5,8,6,2,Medium,Social Media,Low,41,-50,Introvert,Left,Average,791
+8120,22,Female,Happy,Work stress,Nightmare,7,Never,9,Pop,94,73,6,4,9,4,Medium,Finance,High,75,300,Extrovert,Balanced,Good,508
+3785,55,Non-binary,Anxious,Existential crisis,Nightmare,8,Daily,4,Metal,71,100,10,6,1,12,Medium,Relationships,High,38,0,Extrovert,Right,Good,130
+6071,20,Male,Sad,Creativity burst,Lucid,5,Daily,3,Rock,27,98,7,3,2,9,Medium,Finance,Low,75,0,Ambivert,Left,Poor,696
+7234,40,Male,,Creativity burst,Nightmare,3,Never,8,Rock,23,22,10,6,1,9,Low,Work,High,43,500,Ambivert,Right,Average,656
+1613,54,Male,Angry,Existential crisis,Nightmare,9,Never,5,Rock,46,81,7,9,10,6,Medium,Finance,Low,36,500,Ambivert,Balanced,Average,602
+4851,54,Non-binary,Happy,Creativity burst,Lucid,7,Weekly,2,Pop,63,65,4,9,3,11,Medium,Finance,High,69,400,Ambivert,Right,Good,470
+3970,27,Female,Anxious,Work stress,Lucid,3,Weekly,10,Classical,59,14,6,10,5,9,High,Work,High,48,300,Extrovert,Left,Good,422
+9787,27,Male,Sad,Work stress,Forgotten,10,Daily,9,Pop,66,21,7,3,1,4,Medium,Relationships,Low,53,400,Ambivert,Right,Poor,431
+3532,36,Non-binary,,Existential crisis,Lucid,6,Weekly,3,Pop,63,50,5,3,4,11,Medium,Finance,Low,45,500,Introvert,Balanced,Average,342
+3383,34,Female,,Creativity burst,Lucid,7,Weekly,2,Lo-fi,67,12,5,4,8,1,Low,Health,Low,28,300,Ambivert,Left,Good,651
+4894,38,Non-binary,Anxious,Work stress,Abstract,10,Never,1,Lo-fi,71,42,2,7,6,2,Medium,Finance,Low,54,400,Ambivert,Left,Average,529
+7182,31,Female,Happy,Work stress,Forgotten,7,Weekly,8,Pop,87,95,7,3,1,13,Medium,Relationships,Medium,30,0,Introvert,Balanced,Average,281
+8447,26,Non-binary,Anxious,Random nostalgia,Forgotten,4,Daily,3,Metal,30,59,6,10,1,1,Low,Work,Medium,32,0,Introvert,Right,Average,908
+3777,63,Female,Happy,Random nostalgia,Forgotten,10,Weekly,7,Lo-fi,96,65,1,8,3,8,Medium,Relationships,Low,36,-50,Introvert,Right,Good,572
+2055,18,Male,Happy,Work stress,Abstract,6,Daily,1,Pop,92,18,4,8,10,9,Low,Social Media,Medium,81,50,Introvert,Balanced,Average,475
+4231,68,Female,Excited,Existential crisis,Lucid,6,Never,1,Classical,23,91,3,6,8,10,Medium,Finance,Low,28,500,Ambivert,Left,Good,180
+3221,62,Non-binary,Sad,Focused mode,Forgotten,8,Daily,9,Metal,95,59,3,4,8,12,High,Finance,Low,50,400,Introvert,Balanced,Poor,649
+5857,30,Non-binary,Sad,Focused mode,Forgotten,7,Weekly,8,Rock,92,38,7,5,3,6,High,Work,High,35,50,Extrovert,Left,Poor,967
+4038,21,Female,,Work stress,Nightmare,9,Never,3,Pop,96,48,10,2,,2,Medium,Finance,Low,37,50,Ambivert,Left,Good,519
+8796,18,Male,Sad,Work stress,Forgotten,6,Weekly,6,Pop,67,100,4,6,3,6,High,Health,Low,73,200,Extrovert,Right,Average,566
+6106,66,Male,Sad,Work stress,Lucid,7,Never,3,Metal,45,54,8,3,4,9,Low,Health,Low,77,300,Ambivert,Balanced,Poor,527
+6379,57,Female,,Existential crisis,Lucid,8,Never,4,Lo-fi,96,26,9,6,9,12,Medium,Relationships,Low,89,100,Ambivert,Left,Poor,156
+3956,49,Female,Happy,Random nostalgia,Nightmare,9,Weekly,1,Lo-fi,58,65,3,5,4,3,Low,Work,High,60,200,Extrovert,Right,Good,421
+8556,51,Non-binary,Anxious,Work stress,Forgotten,10,Weekly,5,Lo-fi,77,55,5,2,3,9,High,Social Media,Low,83,500,Introvert,Balanced,Good,641
+4813,45,Male,,Work stress,Forgotten,8,Never,1,Rock,38,76,4,5,5,2,Low,Relationships,High,57,-50,Introvert,Balanced,Good,594
+5480,48,Female,,Creativity burst,Forgotten,4,Never,1,Metal,96,78,10,5,7,11,High,Work,Low,19,300,Extrovert,Left,Good,365
+2836,25,Male,Anxious,Existential crisis,Abstract,9,Weekly,10,Metal,96,23,6,9,5,5,High,Work,High,82,100,Introvert,Left,Good,326
+7384,56,Female,Sad,Work stress,Forgotten,7,Daily,7,Lo-fi,77,76,10,8,4,11,High,Relationships,Medium,48,50,Ambivert,Left,Good,928
+5208,43,Female,Sad,Creativity burst,Lucid,6,Weekly,6,Lo-fi,47,32,4,7,8,2,Low,Relationships,High,28,-50,Ambivert,Balanced,Good,903
+5352,51,Male,Excited,Focused mode,Lucid,6,Never,2,Classical,85,70,8,3,4,7,High,Finance,High,73,100,Ambivert,Left,Average,153
+7169,20,Female,Excited,Work stress,Abstract,7,Weekly,2,Classical,29,32,3,10,2,11,Medium,Social Media,Low,28,0,Introvert,Balanced,Average,708
+8155,67,Female,Angry,Work stress,Abstract,7,Daily,7,Pop,96,36,5,4,10,10,High,Health,High,85,500,Introvert,Right,Average,103
+8188,29,Non-binary,Sad,Creativity burst,Forgotten,7,Weekly,1,Pop,77,63,1,6,6,9,Medium,Finance,High,71,-50,Extrovert,Balanced,Average,538
+8370,18,Female,Happy,Existential crisis,Nightmare,5,Never,2,Metal,92,19,6,3,2,7,Medium,Work,Low,22,0,Ambivert,Left,Poor,409
+2395,61,Female,Happy,Work stress,Abstract,9,Weekly,8,Metal,33,98,5,9,3,12,Medium,Social Media,Medium,34,400,Extrovert,Balanced,Average,978
+7711,22,Female,Anxious,Focused mode,Abstract,6,Never,6,Rock,34,86,8,8,1,5,Medium,Social Media,Medium,51,-50,Introvert,Left,Poor,702
+4829,47,Non-binary,Angry,Work stress,Forgotten,9,Never,2,Rock,52,25,9,6,5,4,Low,Relationships,Medium,48,-50,Extrovert,Right,Poor,188
+7808,47,Male,,Focused mode,Forgotten,8,Weekly,7,Classical,36,50,8,4,9,12,Medium,Social Media,High,39,300,Introvert,Left,Poor,419
+6897,34,Non-binary,Anxious,Random nostalgia,Abstract,6,Never,4,Pop,43,64,8,7,2,4,High,Social Media,Low,14,200,Ambivert,Left,Good,474
+3861,65,Non-binary,Happy,Random nostalgia,Nightmare,5,Never,2,Classical,49,70,3,3,7,10,Medium,Work,Medium,90,500,Ambivert,Left,Poor,703
+8593,64,Male,Anxious,Focused mode,Abstract,7,Daily,6,Classical,81,95,4,10,5,8,High,Finance,Medium,27,50,Introvert,Left,Poor,600
+8658,40,Non-binary,Angry,Existential crisis,Forgotten,4,Daily,9,Pop,32,90,4,8,2,10,Low,Social Media,Medium,30,500,Introvert,Left,Poor,761
+5960,32,Male,Angry,Work stress,Forgotten,7,Daily,9,Rock,81,96,5,1,8,13,Medium,Relationships,Medium,59,300,Introvert,Left,Good,333
+4749,54,Non-binary,Anxious,Work stress,Abstract,10,Daily,8,Pop,66,58,9,3,6,10,High,Finance,Low,15,-50,Ambivert,Right,Average,436
+6782,38,Male,Excited,Random nostalgia,Nightmare,7,Never,3,Lo-fi,35,82,9,5,4,14,Low,Relationships,Medium,59,50,Introvert,Right,Average,670
+3998,31,Female,Excited,Focused mode,Abstract,5,Weekly,3,Lo-fi,85,61,10,5,4,10,Low,Social Media,High,89,0,Ambivert,Balanced,Poor,284
+4129,19,Non-binary,Sad,Work stress,Abstract,9,Never,2,Lo-fi,100,11,1,10,2,10,High,Finance,High,75,500,Extrovert,Left,Poor,537
+1392,28,Non-binary,Happy,Work stress,Forgotten,6,Never,5,Metal,62,59,8,2,3,10,Medium,Social Media,Low,10,200,Ambivert,Balanced,Average,655
+5058,68,Non-binary,Anxious,Existential crisis,Nightmare,7,Never,4,Rock,27,95,1,10,7,1,Low,Work,Medium,66,200,Extrovert,Right,Average,279
+6639,56,Non-binary,Happy,Creativity burst,Lucid,6,Weekly,7,Rock,22,52,2,8,3,5,High,Finance,Medium,39,0,Ambivert,Right,Average,175
+9490,55,Female,Sad,Random nostalgia,Nightmare,3,Daily,4,Metal,31,86,7,5,5,14,Medium,Relationships,High,67,100,Ambivert,Left,Average,755
+1245,51,Non-binary,Happy,Random nostalgia,Abstract,8,Never,9,Classical,35,17,8,7,10,2,Low,Work,Low,61,200,Introvert,Left,Poor,712
+6524,55,Female,Anxious,Creativity burst,Abstract,9,Never,2,Lo-fi,97,68,1,7,6,13,High,Health,High,46,100,Ambivert,Balanced,Poor,992
+9001,67,Female,Happy,Work stress,Abstract,6,Daily,6,Lo-fi,99,74,3,5,6,11,Low,Relationships,Low,57,50,Introvert,Right,Poor,371
+8530,51,Female,Anxious,Existential crisis,Nightmare,4,Never,7,Classical,78,90,7,8,,9,Low,Social Media,Low,10,200,Introvert,Balanced,Average,154
+6088,35,Female,,Existential crisis,Forgotten,8,Weekly,4,Pop,68,21,9,9,6,7,High,Relationships,Low,28,400,Introvert,Balanced,Good,800
+5784,47,Male,Happy,Random nostalgia,Abstract,10,Never,6,Pop,82,13,8,4,,10,Low,Health,High,55,-50,Ambivert,Balanced,Average,962
+7949,32,Male,Happy,Existential crisis,Abstract,10,Never,7,Rock,81,86,8,4,7,8,High,Relationships,Low,76,0,Introvert,Left,Average,946
+6427,44,Non-binary,Sad,Creativity burst,Nightmare,4,Daily,4,Metal,68,50,9,8,7,6,Medium,Work,High,11,-50,Extrovert,Right,Good,176
+6985,68,Male,Excited,Work stress,Lucid,7,Never,8,Rock,70,16,10,1,4,9,High,Relationships,High,65,-50,Extrovert,Balanced,Good,395
+4745,51,Male,Sad,Creativity burst,Lucid,8,Never,9,Pop,52,96,3,4,,6,Medium,Finance,Medium,26,500,Ambivert,Right,Average,318
+8599,69,Non-binary,Sad,Focused mode,Forgotten,6,Weekly,1,Classical,49,97,8,6,7,7,Low,Health,High,88,100,Introvert,Right,Good,376
+6929,55,Non-binary,Happy,Random nostalgia,Forgotten,8,Daily,7,Rock,78,78,1,4,3,7,High,Relationships,High,31,400,Extrovert,Balanced,Good,677
+7579,50,Non-binary,Anxious,Existential crisis,Abstract,7,Daily,9,Lo-fi,95,78,8,6,1,9,High,Health,Medium,36,50,Ambivert,Balanced,Good,747
+5706,41,Male,Angry,Focused mode,Nightmare,5,Weekly,10,Lo-fi,34,90,7,5,2,11,High,Work,Medium,64,50,Ambivert,Left,Average,845
+1326,32,Male,Anxious,Existential crisis,Abstract,9,Never,5,Classical,42,39,8,9,10,8,High,Finance,Medium,41,200,Ambivert,Right,Average,810
+8652,47,Non-binary,,Work stress,Forgotten,4,Daily,2,Pop,97,82,1,10,9,13,Medium,Social Media,Low,69,200,Ambivert,Balanced,Good,365
+3782,59,Female,Sad,Work stress,Nightmare,7,Daily,10,Lo-fi,64,15,6,9,8,1,Medium,Relationships,Low,37,400,Ambivert,Balanced,Poor,142
+1742,68,Non-binary,Excited,Work stress,Nightmare,5,Never,6,Lo-fi,81,98,7,4,6,4,Low,Work,Medium,37,300,Introvert,Right,Good,460
+9334,34,Female,Happy,Existential crisis,Forgotten,8,Never,7,Metal,98,28,5,4,6,7,Low,Health,Low,83,300,Introvert,Balanced,Good,327
+5501,22,Female,Excited,Focused mode,Lucid,8,Daily,2,Rock,90,89,5,8,1,11,Low,Health,Medium,34,200,Introvert,Right,Average,326
+4720,46,Non-binary,Anxious,Work stress,Lucid,7,Never,2,Pop,34,94,7,10,2,8,Low,Work,Low,87,300,Introvert,Balanced,Poor,162
+1180,21,Non-binary,Excited,Focused mode,Nightmare,6,Daily,10,Rock,65,75,3,4,4,7,High,Relationships,High,35,0,Ambivert,Right,Good,270
+2818,27,Non-binary,Happy,Existential crisis,Abstract,8,Never,10,Pop,83,19,6,2,,12,Medium,Social Media,Low,84,400,Ambivert,Balanced,Poor,861
+4807,34,Male,Happy,Focused mode,Lucid,6,Never,1,Lo-fi,65,25,7,2,1,3,Medium,Relationships,Low,80,0,Extrovert,Balanced,Average,949
+6718,27,Female,Sad,Existential crisis,Abstract,6,Weekly,4,Metal,75,46,1,1,8,4,Medium,Finance,High,26,300,Extrovert,Left,Poor,861
+4899,34,Male,Sad,Existential crisis,Lucid,9,Never,7,Rock,63,88,2,5,7,12,Medium,Relationships,Medium,16,200,Introvert,Right,Average,406
+2620,37,Male,Sad,Random nostalgia,Lucid,6,Weekly,9,Lo-fi,94,86,4,6,4,7,Low,Finance,Low,65,-50,Ambivert,Left,Good,849
+9364,41,Non-binary,Sad,Existential crisis,Abstract,3,Never,3,Pop,48,86,8,9,9,8,High,Health,Low,73,-50,Extrovert,Balanced,Average,667
+9106,22,Male,Happy,Existential crisis,Forgotten,9,Daily,7,Rock,81,41,10,5,4,7,Medium,Finance,High,29,0,Extrovert,Right,Poor,782
+6415,51,Non-binary,Angry,Creativity burst,Lucid,5,Daily,7,Rock,71,56,6,6,,6,High,Social Media,High,47,50,Extrovert,Right,Poor,133
+5210,23,Female,Excited,Work stress,Lucid,5,Never,7,Lo-fi,73,81,1,6,10,9,High,Work,High,84,500,Extrovert,Balanced,Poor,926
+1994,19,Non-binary,Angry,Random nostalgia,Abstract,8,Never,2,Rock,76,52,10,3,,9,High,Finance,High,67,-50,Introvert,Balanced,Good,741
+1893,30,Male,Happy,Random nostalgia,Forgotten,8,Daily,6,Metal,85,91,5,4,1,11,High,Relationships,Medium,25,-50,Ambivert,Balanced,Poor,229
+4333,60,Male,Angry,Random nostalgia,Lucid,6,Never,2,Metal,41,45,7,1,1,13,Medium,Finance,Low,60,200,Introvert,Balanced,Poor,493
+3026,60,Non-binary,Happy,Creativity burst,Lucid,9,Weekly,6,Lo-fi,39,35,6,4,4,7,Medium,Health,Low,36,400,Extrovert,Right,Poor,250
+8606,65,Non-binary,,Existential crisis,Forgotten,9,Weekly,10,Pop,52,19,9,1,1,8,Medium,Finance,Low,60,100,Extrovert,Left,Average,754
+7124,28,Male,Happy,Work stress,Lucid,3,Weekly,3,Lo-fi,91,40,8,5,2,6,Low,Social Media,Low,84,100,Ambivert,Right,Poor,729
+2015,68,Female,Anxious,Focused mode,Forgotten,6,Weekly,2,Metal,44,38,4,8,4,1,Medium,Finance,Medium,25,200,Ambivert,Right,Average,815
+3242,64,Female,,Existential crisis,Forgotten,3,Weekly,6,Classical,65,14,5,8,7,1,Low,Social Media,Low,69,300,Introvert,Right,Poor,483
+3136,40,Non-binary,Excited,Creativity burst,Abstract,10,Never,2,Classical,92,86,7,5,,6,Low,Relationships,Medium,85,-50,Ambivert,Right,Average,846
+3085,33,Female,Anxious,Existential crisis,Nightmare,6,Never,5,Rock,76,10,8,10,8,2,Low,Health,Medium,49,-50,Introvert,Balanced,Average,116
+7503,48,Male,Excited,Existential crisis,Forgotten,4,Weekly,2,Rock,24,96,5,2,7,14,Medium,Work,High,76,0,Introvert,Left,Good,693
+4760,28,Non-binary,,Creativity burst,Abstract,4,Never,3,Classical,74,12,9,6,9,8,Medium,Relationships,High,11,0,Extrovert,Right,Good,113
+6641,33,Male,Anxious,Random nostalgia,Nightmare,7,Never,3,Metal,80,76,10,1,6,1,Medium,Relationships,Low,57,200,Introvert,Right,Average,180
+6484,25,Male,Angry,Random nostalgia,Lucid,6,Weekly,6,Rock,27,80,4,7,4,13,Low,Work,Medium,61,50,Extrovert,Left,Average,306
+2748,21,Female,Anxious,Work stress,Nightmare,9,Never,6,Lo-fi,35,44,4,4,6,2,Low,Finance,High,33,400,Introvert,Balanced,Good,303
+4195,57,Non-binary,Angry,Work stress,Forgotten,8,Never,10,Lo-fi,67,24,8,5,4,8,High,Finance,Medium,87,300,Introvert,Right,Average,478
+3920,21,Non-binary,Anxious,Random nostalgia,Forgotten,5,Never,3,Metal,80,76,1,6,7,12,Low,Finance,High,11,-50,Ambivert,Balanced,Good,883
+1495,42,Female,Angry,Focused mode,Forgotten,7,Weekly,3,Rock,34,39,8,1,9,6,Low,Health,Medium,74,50,Ambivert,Right,Good,643
+7323,20,Male,Sad,Existential crisis,Forgotten,8,Never,1,Lo-fi,84,91,5,9,3,12,Medium,Relationships,Low,29,200,Extrovert,Right,Poor,122
+8522,49,Male,Happy,Focused mode,Forgotten,4,Daily,7,Rock,41,84,1,10,3,10,High,Social Media,Low,43,200,Ambivert,Left,Poor,713
+7263,20,Male,Happy,Existential crisis,Abstract,6,Daily,8,Rock,22,52,4,4,2,2,High,Work,Medium,50,-50,Introvert,Left,Good,261
+8361,44,Male,Sad,Random nostalgia,Forgotten,7,Weekly,2,Lo-fi,73,69,2,8,1,2,High,Relationships,High,50,50,Extrovert,Balanced,Good,709
+7974,46,Non-binary,Happy,Work stress,Abstract,6,Daily,4,Classical,33,49,4,5,1,11,Medium,Finance,High,84,100,Extrovert,Right,Average,243
+7214,49,Non-binary,Angry,Work stress,Lucid,4,Weekly,10,Lo-fi,55,74,8,8,3,14,High,Work,Low,32,200,Extrovert,Balanced,Good,203
+1742,67,Female,Sad,Focused mode,Forgotten,7,Daily,7,Metal,86,38,5,1,7,7,High,Social Media,Low,47,400,Introvert,Left,Good,481
+9365,68,Female,Excited,Work stress,Forgotten,4,Daily,8,Pop,29,83,1,8,9,5,Medium,Relationships,Low,53,500,Ambivert,Left,Poor,554
+8411,36,Non-binary,Happy,Random nostalgia,Nightmare,3,Daily,1,Lo-fi,68,28,7,4,2,5,High,Relationships,High,76,300,Extrovert,Left,Good,516
+9742,38,Non-binary,Sad,Focused mode,Lucid,4,Weekly,4,Rock,84,12,1,2,7,8,Low,Health,High,71,50,Introvert,Left,Average,423
+4378,22,Male,Anxious,Existential crisis,Forgotten,9,Weekly,6,Rock,76,45,9,6,1,12,Low,Relationships,Low,21,100,Ambivert,Left,Good,270
+3764,35,Male,Angry,Work stress,Forgotten,9,Never,3,Lo-fi,46,52,3,2,2,12,Low,Relationships,Medium,39,50,Ambivert,Balanced,Poor,675
+4004,45,Female,Happy,Creativity burst,Lucid,6,Weekly,5,Pop,94,24,3,5,6,7,Low,Social Media,High,74,100,Extrovert,Balanced,Poor,855
+8919,59,Non-binary,Excited,Work stress,Abstract,5,Daily,10,Lo-fi,24,50,6,2,5,12,Low,Social Media,Low,50,100,Introvert,Left,Poor,682
+6869,39,Female,Excited,Existential crisis,Forgotten,4,Daily,9,Pop,90,99,10,3,8,14,Low,Work,Medium,29,400,Ambivert,Right,Poor,373
+1819,38,Non-binary,Sad,Focused mode,Nightmare,8,Weekly,3,Pop,76,89,6,6,2,9,Low,Finance,High,15,300,Introvert,Right,Good,551
+1752,23,Male,Sad,Existential crisis,Forgotten,9,Weekly,5,Metal,34,45,6,1,1,4,Low,Social Media,Medium,84,200,Ambivert,Right,Average,980
+4846,18,Female,,Creativity burst,Nightmare,10,Weekly,8,Rock,95,93,1,6,7,10,Low,Work,Medium,13,100,Extrovert,Right,Average,224
+6107,22,Female,Anxious,Random nostalgia,Nightmare,5,Never,6,Rock,49,86,5,3,6,4,Medium,Relationships,High,19,200,Extrovert,Right,Average,482
+3800,58,Non-binary,Angry,Work stress,Forgotten,3,Daily,4,Pop,39,42,6,7,8,2,Medium,Work,Low,60,300,Ambivert,Left,Good,416
+1847,29,Male,Excited,Focused mode,Forgotten,7,Never,8,Rock,56,14,8,2,,3,Low,Work,Medium,47,200,Introvert,Balanced,Good,942
+2645,43,Female,Sad,Random nostalgia,Nightmare,7,Never,3,Classical,22,87,1,6,2,1,Medium,Work,Low,10,-50,Ambivert,Left,Good,206
+6906,63,Male,Angry,Existential crisis,Lucid,9,Daily,3,Pop,92,100,5,8,8,1,Medium,Work,High,17,400,Introvert,Right,Average,759
+3474,51,Female,Sad,Focused mode,Lucid,5,Daily,4,Rock,60,96,3,1,6,7,Low,Social Media,Medium,90,400,Ambivert,Right,Good,562
+9405,66,Male,Anxious,Random nostalgia,Forgotten,9,Weekly,9,Classical,58,23,2,9,9,14,Low,Finance,Medium,72,0,Extrovert,Balanced,Good,529
+6557,31,Non-binary,Angry,Focused mode,Abstract,7,Weekly,5,Metal,45,77,8,5,7,14,Medium,Work,Medium,42,400,Introvert,Left,Poor,803
+8786,43,Female,Anxious,Creativity burst,Lucid,10,Never,8,Rock,21,92,7,5,2,5,Low,Health,Medium,24,100,Extrovert,Balanced,Poor,436
+5822,62,Female,Sad,Creativity burst,Forgotten,4,Weekly,6,Classical,42,56,10,5,8,3,Low,Relationships,Medium,40,300,Introvert,Right,Average,837
+1603,44,Male,Sad,Work stress,Lucid,5,Weekly,3,Lo-fi,42,63,7,6,9,7,Low,Relationships,High,30,400,Ambivert,Right,Poor,853
+9035,26,Male,Angry,Work stress,Abstract,6,Daily,8,Lo-fi,35,13,5,2,7,14,Low,Relationships,Medium,12,50,Extrovert,Balanced,Poor,595
+5190,43,Female,Anxious,Creativity burst,Forgotten,4,Daily,9,Classical,28,92,9,6,4,2,Medium,Relationships,High,75,300,Extrovert,Right,Poor,461
+3769,64,Non-binary,Angry,Focused mode,Abstract,4,Weekly,8,Pop,32,18,5,4,9,3,High,Relationships,Low,44,100,Introvert,Left,Good,895
+4657,39,Male,Happy,Creativity burst,Forgotten,4,Daily,4,Pop,47,62,2,8,4,1,Medium,Work,High,50,300,Introvert,Right,Poor,531
+3680,64,Male,Excited,Work stress,Abstract,6,Weekly,6,Rock,46,86,3,9,4,8,High,Finance,Medium,68,400,Introvert,Right,Poor,774
+5855,47,Male,Happy,Creativity burst,Lucid,10,Daily,1,Lo-fi,70,87,4,9,9,2,High,Health,Low,25,50,Extrovert,Left,Poor,619
+9833,60,Female,,Creativity burst,Lucid,3,Daily,4,Pop,83,69,5,8,,7,High,Social Media,High,65,0,Ambivert,Right,Good,958
+1837,65,Female,Happy,Focused mode,Abstract,10,Daily,8,Pop,71,55,3,3,4,11,Medium,Health,High,54,100,Introvert,Balanced,Average,505
+8900,34,Female,Anxious,Random nostalgia,Abstract,10,Daily,1,Lo-fi,100,63,7,10,8,9,Medium,Social Media,High,68,500,Ambivert,Balanced,Good,476
+4773,43,Female,Happy,Work stress,Abstract,10,Weekly,3,Metal,57,83,5,4,8,6,Medium,Social Media,Medium,59,-50,Introvert,Right,Good,251
+9493,53,Non-binary,,Focused mode,Forgotten,8,Never,1,Pop,84,46,5,1,7,2,Medium,Health,Medium,21,100,Ambivert,Left,Poor,421
+2031,18,Non-binary,Angry,Creativity burst,Lucid,9,Daily,9,Classical,37,32,6,9,10,2,Medium,Work,High,21,300,Introvert,Left,Average,706
+8853,25,Female,Happy,Creativity burst,Forgotten,7,Weekly,2,Rock,82,36,7,5,6,9,High,Relationships,High,42,500,Ambivert,Balanced,Poor,313
+7047,66,Non-binary,Sad,Random nostalgia,Lucid,9,Weekly,9,Pop,70,79,10,6,8,10,Medium,Work,Low,58,500,Extrovert,Right,Poor,675
+6845,52,Male,Happy,Work stress,Nightmare,5,Daily,4,Pop,28,99,10,3,7,8,High,Relationships,Medium,30,200,Introvert,Left,Average,164
+9586,69,Male,Happy,Work stress,Forgotten,10,Never,2,Metal,32,75,8,10,5,14,Medium,Finance,Medium,69,500,Introvert,Left,Average,992
+2046,32,Male,,Existential crisis,Lucid,3,Daily,4,Classical,59,70,9,8,,14,Medium,Social Media,Low,61,200,Extrovert,Balanced,Good,369
+4407,64,Female,Angry,Work stress,Lucid,5,Weekly,10,Rock,74,86,4,7,2,14,Low,Health,High,63,-50,Introvert,Balanced,Average,636
+5824,39,Male,Anxious,Random nostalgia,Forgotten,9,Never,6,Pop,98,60,5,1,8,9,High,Finance,High,48,500,Introvert,Left,Good,199
+7956,31,Non-binary,Anxious,Existential crisis,Forgotten,7,Weekly,7,Rock,62,59,5,10,9,4,Medium,Relationships,Low,58,50,Extrovert,Balanced,Good,204
+8229,43,Female,Anxious,Existential crisis,Lucid,6,Daily,3,Lo-fi,63,28,8,5,4,4,Medium,Work,High,73,0,Extrovert,Left,Poor,230
+9399,45,Non-binary,Happy,Creativity burst,Forgotten,9,Never,3,Pop,87,10,9,10,4,2,Medium,Health,High,35,0,Ambivert,Right,Poor,488
+4406,40,Male,Sad,Creativity burst,Abstract,4,Weekly,10,Pop,52,49,7,9,5,14,Low,Social Media,Low,80,500,Extrovert,Balanced,Poor,420
+9784,31,Male,Anxious,Work stress,Forgotten,9,Weekly,8,Lo-fi,43,41,5,6,2,10,High,Finance,Low,16,300,Extrovert,Balanced,Average,537
+6607,41,Male,,Existential crisis,Forgotten,4,Weekly,5,Metal,55,31,3,8,7,1,Medium,Social Media,Low,81,300,Introvert,Right,Average,118
+1880,19,Female,Sad,Creativity burst,Forgotten,6,Daily,4,Pop,29,75,1,10,5,10,Medium,Relationships,High,71,200,Extrovert,Left,Good,324
+6740,62,Non-binary,Sad,Random nostalgia,Lucid,9,Never,7,Rock,39,49,9,1,6,13,Medium,Social Media,Low,33,400,Introvert,Left,Good,717
+5537,43,Female,Angry,Creativity burst,Abstract,3,Daily,7,Classical,94,47,5,10,4,4,Low,Work,High,49,0,Extrovert,Balanced,Good,665
+2617,31,Female,,Creativity burst,Nightmare,3,Daily,9,Rock,31,57,9,7,8,10,Medium,Finance,Medium,85,400,Extrovert,Left,Average,559
+1375,68,Male,Sad,Existential crisis,Nightmare,5,Daily,9,Metal,81,64,10,3,8,10,High,Finance,Medium,56,0,Ambivert,Left,Good,493
+1770,24,Female,Angry,Existential crisis,Abstract,6,Never,5,Classical,37,84,4,9,5,11,High,Work,Low,17,400,Extrovert,Right,Good,325
+9641,20,Female,Excited,Focused mode,Abstract,10,Daily,8,Rock,82,90,5,6,6,8,High,Social Media,High,63,400,Extrovert,Right,Average,459
+1371,64,Male,Happy,Random nostalgia,Abstract,3,Daily,10,Rock,44,64,4,5,3,2,High,Work,High,18,0,Introvert,Right,Poor,529
+5053,40,Female,Happy,Existential crisis,Lucid,9,Daily,1,Lo-fi,31,60,2,8,1,13,Medium,Health,High,12,-50,Introvert,Balanced,Average,114
+4117,63,Male,Anxious,Work stress,Nightmare,6,Daily,9,Metal,40,69,1,8,9,12,Low,Work,Low,63,50,Ambivert,Right,Good,659
+8698,60,Male,,Random nostalgia,Abstract,7,Weekly,8,Lo-fi,44,17,8,3,9,11,Low,Social Media,High,30,50,Extrovert,Right,Poor,750
+8698,64,Male,Sad,Random nostalgia,Lucid,4,Daily,6,Classical,30,95,4,2,3,8,Low,Work,High,57,300,Introvert,Left,Average,645
+7313,62,Male,Angry,Existential crisis,Nightmare,9,Weekly,3,Lo-fi,83,77,5,2,4,1,Medium,Relationships,High,56,400,Extrovert,Right,Poor,513
+1709,35,Female,Angry,Random nostalgia,Forgotten,4,Daily,3,Metal,92,84,6,5,7,1,Low,Work,Medium,77,400,Ambivert,Balanced,Poor,454
+7032,55,Male,Angry,Existential crisis,Lucid,4,Never,8,Pop,69,81,8,10,,4,High,Work,High,72,-50,Introvert,Right,Good,556
