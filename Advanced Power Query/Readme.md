@@ -1,4 +1,4 @@
-### Power Query Best Practices
+## Power Query Best Practices
 
 
 Naming query steps
